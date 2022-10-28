@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <marc:leader>04480cam a2200841 i 4500</marc:leader>
+   <marc:controlfield tag="001">1125265568</marc:controlfield>
+   <marc:controlfield tag="005">20220327071756.6</marc:controlfield>
+   <marc:controlfield tag="008">191029s1884    dcuab   ob   f001 0 eng d</marc:controlfield>
+   <marc:controlfield tag="006">m     o  d f      </marc:controlfield>
+   <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">GPO</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="e">pn</marc:subfield>
+      <marc:subfield code="c">GPO</marc:subfield>
+      <marc:subfield code="d">GPO</marc:subfield>
+      <marc:subfield code="d">OCLCF</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">XFF</marc:subfield>
+      <marc:subfield code="d">OCLCO</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us---</marc:subfield>
+      <marc:subfield code="a">n-us-ak</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="086" ind1="0" ind2=" ">
+      <marc:subfield code="a">I 11.5:8</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGLL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="0" ind2="4">
+      <marc:subfield code="a">The newspaper and periodical press /</marc:subfield>
+      <marc:subfield code="c">by S.N.D. North ; Alaska: its population, industries, and resources by Ivan Petroff ; the Seal Islands of Alaska by Henry W. Elliott ; Ship-building industry in the United States by Henry Hall.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Alaska: its population, industries, and resources</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Seal islands of Alaska</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Shipbuilding industry in the United States</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[Washington, D.C.] :</marc:subfield>
+      <marc:subfield code="b">Department of the Interior :</marc:subfield>
+      <marc:subfield code="b">Census Office,</marc:subfield>
+      <marc:subfield code="c">[1884]</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="264" ind1=" " ind2="3">
+      <marc:subfield code="a">Washington :</marc:subfield>
+      <marc:subfield code="b">Government Printing Office,</marc:subfield>
+      <marc:subfield code="c">1884.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource (4 volumes in 1) :</marc:subfield>
+      <marc:subfield code="b">illustrations, maps</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Publication pre-dates item numbers. No item number has been assigned.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="588" ind1="0" ind2=" ">
+      <marc:subfield code="a">Online resource, PDF version; title from cover (Census, viewed October 25, 2019).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Press</marc:subfield>
+      <marc:subfield code="z">United States.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Newspapers.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Periodicals.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Alaska</marc:subfield>
+      <marc:subfield code="x">Description and travel.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Alaska</marc:subfield>
+      <marc:subfield code="x">Population.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Industries</marc:subfield>
+      <marc:subfield code="z">Alaska.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Pribilof Islands (Alaska)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Seals (Animals)</marc:subfield>
+      <marc:subfield code="z">Alaska</marc:subfield>
+      <marc:subfield code="z">Pribilof Islands.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Sealing</marc:subfield>
+      <marc:subfield code="z">Alaska</marc:subfield>
+      <marc:subfield code="z">Pribilof Islands.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Shipbuilding</marc:subfield>
+      <marc:subfield code="z">United States.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Shipbuilding industry</marc:subfield>
+      <marc:subfield code="z">United States.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Presse.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0025284</marc:subfield>
+      <marc:subfield code="z">États-Unis.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0407727</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Journaux.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0025283</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Périodiques.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0058053</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="6">
+      <marc:subfield code="a">Alaska</marc:subfield>
+      <marc:subfield code="x">Descriptions et voyages.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0112423</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="6">
+      <marc:subfield code="a">Alaska.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0100885</marc:subfield>
+      <marc:subfield code="x">Population.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0380122</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Industrie.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0004805</marc:subfield>
+      <marc:subfield code="z">Alaska.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0460551</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="6">
+      <marc:subfield code="a">Pribilof, Îles (Alaska)</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0141517</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Phoques.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0042428</marc:subfield>
+      <marc:subfield code="z">Alaska</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0461152</marc:subfield>
+      <marc:subfield code="z">Pribilof, Îles.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0461152</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Phoques.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0049530</marc:subfield>
+      <marc:subfield code="x">Chasse</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0049530</marc:subfield>
+      <marc:subfield code="z">Alaska</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0461152</marc:subfield>
+      <marc:subfield code="z">Pribilof, Îles.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0461152</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Construction navale.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0019689</marc:subfield>
+      <marc:subfield code="z">États-Unis.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0407727</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="6">
+      <marc:subfield code="a">Construction navale.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0143821</marc:subfield>
+      <marc:subfield code="x">Industrie</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0143821</marc:subfield>
+      <marc:subfield code="z">États-Unis.</marc:subfield>
+      <marc:subfield code="0">(CaQQLa)201-0407727</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">newspapers.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+      <marc:subfield code="0">(CStmoGRI)aat300026656</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">periodicals.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+      <marc:subfield code="0">(CStmoGRI)aat300026657</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Industries.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst00971852</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Newspapers.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01037111</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Periodicals.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01058072</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Population.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01071476</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Press.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01075837</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Sealing.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01110280</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Seals (Animals)</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01110307</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Shipbuilding.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01116224</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Shipbuilding industry.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01116272</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Travel.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01155558</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="7">
+      <marc:subfield code="a">Alaska.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01204480</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="7">
+      <marc:subfield code="a">Alaska</marc:subfield>
+      <marc:subfield code="z">Pribilof Islands.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01246049</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="651" ind1=" " ind2="7">
+      <marc:subfield code="a">United States.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2="2">
+      <marc:subfield code="i">Container of (work):</marc:subfield>
+      <marc:subfield code="a">North, S. N. D.</marc:subfield>
+      <marc:subfield code="q">(Simon Newton Dexter),</marc:subfield>
+      <marc:subfield code="d">1849-1924.</marc:subfield>
+      <marc:subfield code="t">Newspaper and periodical press.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2="2">
+      <marc:subfield code="i">Container of (work):</marc:subfield>
+      <marc:subfield code="a">Petroff, Ivan,</marc:subfield>
+      <marc:subfield code="d">1842-</marc:subfield>
+      <marc:subfield code="t">Alaska: its population, industries, and resources.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2="2">
+      <marc:subfield code="i">Container of (work):</marc:subfield>
+      <marc:subfield code="a">Elliott, Henry Wood,</marc:subfield>
+      <marc:subfield code="d">1846-1930.</marc:subfield>
+      <marc:subfield code="t">Seal Islands of Alaska.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2="2">
+      <marc:subfield code="i">Container of (work):</marc:subfield>
+      <marc:subfield code="a">Hall, Henry,</marc:subfield>
+      <marc:subfield code="d">1845-1920.</marc:subfield>
+      <marc:subfield code="t">Ship-building industry in the United States.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="710" ind1="1" ind2=" ">
+      <marc:subfield code="a">United States.</marc:subfield>
+      <marc:subfield code="b">Census Office,</marc:subfield>
+      <marc:subfield code="e">issuing body.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="710" ind1="1" ind2=" ">
+      <marc:subfield code="a">United States.</marc:subfield>
+      <marc:subfield code="b">Department of the Interior,</marc:subfield>
+      <marc:subfield code="e">issuing body.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="776" ind1="0" ind2="8">
+      <marc:subfield code="i">Print version:</marc:subfield>
+      <marc:subfield code="a">United States. Census Office. 10th census, 1880.</marc:subfield>
+      <marc:subfield code="t">Newspaper and periodical press</marc:subfield>
+      <marc:subfield code="w">(OCoLC)12364551</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://purl.fdlp.gov/GPO/gpo127503</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2=" ">
+      <marc:subfield code="u">https://www2.census.gov/prod2/decennial/documents/1880a_v8-01.pdf</marc:subfield>
+      <marc:subfield code="z">Address at time of PURL creation</marc:subfield>
+   </marc:datafield>
+</marc:record>

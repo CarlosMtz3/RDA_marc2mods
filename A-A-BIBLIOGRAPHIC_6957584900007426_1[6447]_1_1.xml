@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:a xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:b>557</marc:b>
+   <marc:c>xyz</marc:c>
+</marc:a>

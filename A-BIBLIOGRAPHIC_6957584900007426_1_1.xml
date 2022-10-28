@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>02167nam a22004458i 4500</marc:leader>
+   <marc:controlfield>9914445133607426</marc:controlfield>
+   <marc:controlfield>20220708162826.0</marc:controlfield>
+   <marc:controlfield>211029s2022 oru 001 0 eng </marc:controlfield>
+   <marc:datafield>
+      <marc:subfield> 2021052483</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>CIP 20211029 8:55:06 PM</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>9781643261393</marc:subfield>
+      <marc:subfield>(hardcover)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>9781643261690</marc:subfield>
+      <marc:subfield>(ebook)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>(DNAL)1444513-naldb-Voyager</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>DNAL/DLC</marc:subfield>
+      <marc:subfield>eng</marc:subfield>
+      <marc:subfield>rda</marc:subfield>
+      <marc:subfield>DLC</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>pcc</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>AGLG</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>QR351</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>QR351</marc:subfield>
+      <marc:subfield>.L687 2022</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Lowenfels, Jeff,</marc:subfield>
+      <marc:subfield>author.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Teaming with bacteria :</marc:subfield>
+      <marc:subfield>the organic gardener's guide to endophytic bacteria and the
+                rhizophagy cycle /</marc:subfield>
+      <marc:subfield>Jeff Lowenfels</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Organic gardener's guide to endophytic bacteria and the rhizophagy
+                cycle</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>2208</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Portland, Oregon :</marc:subfield>
+      <marc:subfield>Timber Press,</marc:subfield>
+      <marc:subfield>2022.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>pages cm</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>text</marc:subfield>
+      <marc:subfield>txt</marc:subfield>
+      <marc:subfield>rdacontent</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>unmediated</marc:subfield>
+      <marc:subfield>n</marc:subfield>
+      <marc:subfield>rdamedia</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>volume</marc:subfield>
+      <marc:subfield>nc</marc:subfield>
+      <marc:subfield>rdacarrier</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Includes index.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Botany for students of endophytes --</marc:subfield>
+      <marc:subfield>Biochemistry for students of endophytes --</marc:subfield>
+      <marc:subfield>Bacterial review --</marc:subfield>
+      <marc:subfield>Endophytic bacteria -- The</marc:subfield>
+      <marc:subfield>rhizophagy cycle --</marc:subfield>
+      <marc:subfield>Growing with endophytic bacteria -- The</marc:subfield>
+      <marc:subfield>endophytic future.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>"Thanks to research conducted over the last few decades, we know that
+                many (and probably all) plants get a significant portion of their nutrients by
+                attracting endophytic bacteria. Gardeners and small-scale growers need to know about
+                endophytic bacteria and the rhizophagy cycle because they have profound implications
+                for how they raise plants. Knowing about them will help readers increase their
+                plant's health and productivity"--</marc:subfield>
+      <marc:subfield>Provided by publisher.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Also available online.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Organic gardening.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Endophytes.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Plant-microbe relationships.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Handbooks and manuals.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Online version:</marc:subfield>
+      <marc:subfield>Lowenfels, Jeff.</marc:subfield>
+      <marc:subfield>Teaming with bacteria</marc:subfield>
+      <marc:subfield>Portland, Oregon : Timber Press, 2022</marc:subfield>
+      <marc:subfield>9781643261690</marc:subfield>
+      <marc:subfield>(DLC) 2021052484</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>(DNAL)1444513-naldb-Voyager</marc:subfield>
+      <marc:subfield>Copied to 035</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>CIP</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Other US</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>h</marc:subfield>
+      <marc:subfield>2021/10/29</marc:subfield>
+      <marc:subfield>o</marc:subfield>
+      <marc:subfield>csussman</marc:subfield>
+   </marc:datafield>
+</marc:record>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>03443nab a2200493 u 4500</marc:leader>
+   <marc:controlfield>9915363721607426</marc:controlfield>
+   <marc:controlfield>20220810154628.0</marc:controlfield>
+   <marc:controlfield>940411e199309 mau|||||o|||||||||||eng||</marc:controlfield>
+   <marc:datafield>
+      <marc:subfield>IND20386808</marc:subfield>
+      <marc:subfield>DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>10.1175/1520-0442(1993)006&lt;1773:SPOTGA&gt;2.0.CO;2</marc:subfield>
+      <marc:subfield>doi</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>agid:1444513-01nal_inst</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>AGL</marc:subfield>
+      <marc:subfield>eng</marc:subfield>
+      <marc:subfield>AGL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Meko, D.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Spatial patterns of tree-growth anomalies in the United States and
+                southeastern Canada</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>p. 1773-1786.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>A network of 248 tree-ring chronologies in the conterminous United
+                States is assembled and analyzed by rotated principal components analysis (RPCA) to
+                delineate "regions" of common tree-growth variation during the period 1705-1979.
+                Spatial continuity of the tree-ring data is summarized by variogram analysis, and
+                tree-ring data are gridded before RPCA to reduce effects of site clustering.
+                Principal component drought information is evaluated by comparing PC scores and
+                primary pattern coefficients with Palmer Drought Severity Index (PDSI) data from
+                instrumental records. High PC pattern coefficients group geographically into regions
+                coinciding roughly with nine drought regions delineated by RPCA of PDSI by other
+                researchers. The drought signal as measured by the correlation between tree-ring PC
+                scores and July PDSI, 1929-79, is strongest in the South and the interior West (r
+                &gt; 0.7), and weakest in the Northeast and Pacific Northwest (r &lt; 0.16). A count
+                of years with large negative PC scores in multiple regions marks the 1950s as the
+                extreme in widespread drought across the southern United States to 1705. Tree-growth
+                regions are sensitive to whether tree-ring data are gridded before RPCA. Principal
+                components on ungridded tree-ring data tend to center on dense clusters of sites.
+                The importance of site density is most noticeable in the RPCA results for the
+                southeast, where the gridded data yield a PC centered on a group of
+                climate-sensitive but widely spaced bald cypress chronologies. Cross-validation
+                indicates that gridding of tree-ring anomalies over different species for drought
+                reconstruction is more appropriate in the semiarid southwest than in cooler, moister
+                regions--especially the northeast and the Pacific Northwest. Our results endorse the
+                large-scale chronology network as a long-term proxy for the spatial and temporal
+                patterns of past drought across the United States.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>trees</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>abnormal development</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>models</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>growth rings</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>United States</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Canada</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>species</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>article</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Cook, E.R.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Stahle, D.W.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Stockton, C.W.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Hughes, M.K.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Journal of climate.</marc:subfield>
+      <marc:subfield>1993 Sept., v. 6, no. 9 p.1773-1786</marc:subfield>
+      <marc:subfield>0894-8755</marc:subfield>
+      <marc:subfield>nnas</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>islandora_article_repository</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>21248</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>http://dx.doi.org/10.1175/1520-0442(1993)006&lt;1773:SPOTGA&gt;2.0.CO;2</marc:subfield>
+      <marc:subfield>Available from publisher's Web site</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Article</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Journal:21248</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>issued</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>19940504</marc:subfield>
+      <marc:subfield>19940511</marc:subfield>
+      <marc:subfield>00000000</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>IND20386808</marc:subfield>
+      <marc:subfield>ExL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>IND</marc:subfield>
+      <marc:subfield>NNL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>19940504 19940511 00000000</marc:subfield>
+      <marc:subfield>IND NNL </marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>agid:1444513</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>2014-12-25</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>Converted from MARCXML to MODS version 3.4 using
+                MARC21slim2MODS3-4.xsl (Revision 1.95 2014/04/23)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield>
+      <marc:subfield>3042493</marc:subfield>
+   </marc:datafield>
+</marc:record>

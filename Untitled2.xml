@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods version="3.4">
+        <titleInfo>
+            <title>Teaming with bacteria</title>
+            <subTitle>the organic gardener's guide to endophytic bacteria and the
+                rhizophagy cycle</subTitle>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title/>
+        </titleInfo>
+        <name type="personal" usage="primary">
+            <namePart/>
+            <role>
+                <roleTerm type="text">author.</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre authority="marcgt">legal article</genre>
+        <genre authority="rdacontent"/>
+        <genre authority=""/>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">00</placeTerm>
+            </place>
+            <dateIssued encoding="marc">2022</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <originInfo displayLabel="publisher">
+            <place>
+                <placeTerm type="text">Portland, Oregon :Timber Press,2022</placeTerm>
+            </place>
+            <publisher>Timber Press,</publisher>
+            <dateIssued>2022.</dateIssued>
+        </originInfo>
+        <abstract type="Summary"/>
+        <tableOfContents/>
+        <targetAudience authority="marctarget">adult</targetAudience>
+        <note type="statement of responsibility" altRepGroup="00"/>
+        <note>Includes index.</note>
+        <note type="additional physical form">Also available online.</note>
+        <subject authority="lcsh">
+            <topic/>
+        </subject>
+        <subject authority="lcsh">
+            <topic/>
+        </subject>
+        <subject authority="lcsh">
+            <topic/>
+        </subject>
+        <classification authority="lcc">QR351</classification>
+        <relatedItem type="otherFormat" displayLabel="Online version:">
+            <titleInfo>
+                <title>Teaming with bacteria</title>
+            </titleInfo>
+            <name>
+                <namePart>Lowenfels, Jeff.</namePart>
+            </name>
+            <originInfo>
+                <publisher>Portland, Oregon : Timber Press, 2022</publisher>
+            </originInfo>
+            <identifier type="local">(DLC) 2021052484</identifier>
+        </relatedItem>
+        <identifier type="isbn">9781643261393</identifier>
+        <identifier type="isbn" invalid="yes">9781643261690</identifier>
+        <identifier type="lccn">2021052483</identifier>
+        <recordInfo>
+            <descriptionStandard>rda</descriptionStandard>
+            <recordContentSource authority="marcorg">DNAL/DLC</recordContentSource>
+            <recordCreationDate encoding="marc">211029</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20220708162826.0</recordChangeDate>
+            <recordIdentifier>9914445133607426</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+                (Revision 1.95 2014/12/19)</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+    </mods>
+    <mods version="3.4">
+        <titleInfo>
+            <title/>
+        </titleInfo>
+        <name type="personal" usage="primary">
+            <namePart/>
+        </name>
+        <name type="personal">
+            <namePart/>
+        </name>
+        <name type="personal">
+            <namePart/>
+        </name>
+        <name type="personal">
+            <namePart/>
+        </name>
+        <name type="personal">
+            <namePart/>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre authority=""/>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">au|</placeTerm>
+            </place>
+            <dateIssued encoding="marc">1993</dateIssued>
+            <issuance>continuing</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">ng|</languageTerm>
+        </language>
+        <abstract type="Summary"/>
+        <note type="statement of responsibility" altRepGroup="00"/>
+        <subject authority="nal">
+            <topic/>
+        </subject>
+        <subject authority="nal">
+            <topic/>
+        </subject>
+        <subject authority="nal">
+            <topic/>
+        </subject>
+        <subject authority="nal">
+            <topic/>
+        </subject>
+        <subject authority="nal">
+            <geographic>United States</geographic>
+        </subject>
+        <subject authority="nal">
+            <geographic>Canada</geographic>
+        </subject>
+        <subject>
+            <topic>species</topic>
+        </subject>
+        <location>
+            <physicalLocation/>
+        </location>
+        <location>
+            <url displayLabel="" usage="primary display">http://dx.doi.org/10.1175/1520-0442(1993)006&lt;1773:SPOTGA&gt;2.0.CO;2</url>
+        </location>
+        <relatedItem type="host">
+            <titleInfo>
+                <title>Journal of climate</title>
+            </titleInfo>
+            <identifier type="issn">0894-8755</identifier>
+            <part>
+                <text>1993 Sept., v. 6, no. 9 p.1773-1786</text>
+            </part>
+        </relatedItem>
+        <recordInfo>
+            <recordContentSource authority="marcorg">AGL</recordContentSource>
+            <recordCreationDate encoding="marc">940411</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20220810154628.0</recordChangeDate>
+            <recordIdentifier>9915363721607426</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+                (Revision 1.95 2014/12/19)</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+    </mods>
+</modsCollection>

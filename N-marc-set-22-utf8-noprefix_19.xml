@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      version="3.4">
+   <titleInfo>
+      <title>Preliminary report on new industries for Washington State Planning
+                Council</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Washington State Planning Council</namePart>
+      <namePart>Committee on New Industries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">dictionary</genre>
+   <genre authority="rdacontent">text-txt</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">s00</placeTerm>
+      </place>
+      <dateIssued>1935</dateIssued>
+      <dateIssued encoding="marc">1935xx</dateIssued>
+      <dateIssued encoding="marc">1935</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 v. (various pagings)</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <targetAudience authority="marctarget">adult</targetAudience>
+   <subject authority="agricola">
+      <topic>X700</topic>
+   </subject>
+   <classification authority="nal">280.7 W276</classification>
+   <identifier type="control">71086662</identifier>
+   <identifier type="agricola">CAT10904592</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950315</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220417164028.7</recordChangeDate>
+      <recordIdentifier>71086662</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.95 2014/04/23)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
