@@ -1,20 +1,18 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
-	xmlns="http://www.loc.gov/mods/v3" xmlns:marc="http://www.loc.gov/MARC21/slim"
-	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:saxon="http://saxon.sf.net/"
-	exclude-result-prefixes="marc">
-	<xsl:output encoding="UTF-8" indent="yes" method="xml" version="1.0" name="archive"/>
-	<xsl:output encoding="UTF-8" indent="yes" method="xml" version="1.0" name="original"/>
+<xsl:stylesheet xmlns="http://www.loc.gov/mods/v3" xmlns:marc="http://www.loc.gov/MARC21/slim"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	exclude-result-prefixes="marc" version="2.0">
 	<xsl:include href="http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl"/>
-	
+	<xsl:output encoding="UTF-8" indent="yes" method="xml"/>
 	<xsl:strip-space elements="*"/>
 
 	<!-- Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
-	MARC21slim2MODS3-4 (Revision 1.98) 20141216
+	MARC21slim2MODS3-4 (Revision 1.99) 20220416
 
-Revision 1.98 - Fixed dateIssued to include year only date from the 008  JG 2014/12/16
-Revision 1.97 - Fixed dateIssued to include month and date from the 008  JG 2014/08/18
-Revision 1.96 - Added displayForm to 700 JG 2014/05/29
-Revision 1.95 - Added subject from 072, classification from 070, identifier from 024, identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23
+Revision 1.99 - Fixed dateIssued to include year only date from the 008  JG 2014/12/16
+Revision 1.98 - Fixed dateIssued to include month and date from the 008  JG 2014/08/18
+Revision 1.97 - Added displayForm to 700 JG 2014/05/29
+Revision 1.96 - Added subject from 072, classification from 070, identifier from 024, identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23
+Revision 1.95 - Added a xsl:when to deal with '#' and ' ' in $leader19 and $controlField008-18 - ws 2014/12/19
 Revision 1.94 - Leader 07 b mapping changed from "continuing" to "serial" tmee 2014/02/21
 Revision 1.93 - Fixed personal name transform for ind1=0 tmee 2014/01/31
 Revision 1.92 - Removed duplicate code for 856 1.51 tmee tmee 2014/01/31
@@ -109,81 +107,39 @@ Revision 1.05 - MODS2 to MODS3 updates, language unstacking and de-duping, chopP
 Revision 1.03 - Additional Changes not related to MODS Version 2.0 by ntra
 Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 	-->
-<!--	MARC namespace template to add prefixes to elements in n-file transformation-->
-	<xsl:template name="addMARCPrefix" match="*" mode="addMarcPrefix" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
-			<xsl:result-document indent="yes" version="1.0" encoding="UTF-8" method="xml" format="archive"
-				href="{replace(base-uri(), '(.*/)(.*)(\.xml |\.json)','$1')}N-{replace(base-uri(), '(.*/)(.*)(\.xml |\.json)','$2')}_{position()}.xml">
-		<xsl:element name="marc:{name()}" namespace="http://www.loc.gov/MARC21/slim">
-			<xsl:apply-templates mode="addMarcPrefix"/>
+	
+	<xsl:template match="*">
+		<xsl:element name="marc:{name()}" namespace="http://www.loc.gov/mods/v3">
+			<xsl:apply-templates select="node()|@*"/>
 		</xsl:element>
-			</xsl:result-document>
 	</xsl:template>
 
-<xsl:template match="//collection">
-	<xsl:param name="marcPrefix" as="node()">
-
-		<xsl:element name="{name()}" namespace="http://www.loc.gov/MARC21/slim">
-			<xsl:apply-templates select="node()|@*" mode="addMarcPrefix"/>
-		</xsl:element>
-	</xsl:param>
-	<xsl:for-each select="//marc:colllection | //collection">
-		
-		<xsl:call-template name="addMARCprefix"/>		<xsl:result-document method="xml" encoding="utf-8"  format="original" xml:base="1.0" href="{replace(base-uri(),'(.*/)(.*)(\.xml)', '$1')}N-{replace(base-uri(),'(.*/)(.*)(\.xml)', '$2')}_{position()}.xml">
-			
-		<xsl:choose>
-			<xsl:when test="//collection" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
-				
-				<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-					xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-					
-					<xsl:for-each select="//collection/record">
-						
-						<mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5"
-							xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-							xmlns="http://www.loc.gov/mods/v3"
-							xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-						
-							<xsl:call-template name="marcRecord"/>
-						</mods>
-					</xsl:for-each>
-				</modsCollection>
-			</xsl:when>
-			<xsl:otherwise>
-				<mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5"
-					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-					xmlns="http://www.loc.gov/mods/v3"
-					xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-					<xsl:for-each select="//record">
-						<xsl:call-template name="marcRecord"/>
-					</xsl:for-each>
-				</mods>
-			</xsl:otherwise>
-		</xsl:choose>
-	
-		</xsl:result-document>
-	
-		
-</xsl:template>
-	
 	<xsl:template match="/">
+		
 		<xsl:choose>
-			<xsl:when test="//collection" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+			<xsl:when test="//collection">
+				<!--
+				<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+-->
 				
-			 <modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-					xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-
-				<xsl:for-each select="//collection/record">
-					<!--				<mods version="3.4"> -->
+				<:result-document method="xml" encoding="UTF-8" version="1.0" href="{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$1')}A-{replace(base-uri(), '(.*/)(.*)(\.xml|\.json)','$2')}">
+					
 					<mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5"
 						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 						xmlns="http://www.loc.gov/mods/v3"
 						xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+						<xsl:for-each select="//record">
 						<xsl:call-template name="marcRecord"/>
+						</xsl:for-each>
 					</mods>
-				</xsl:for-each>
-			 </modsCollection>
+				
+				</:result-document>
+<!--				</modsCollection>-->
+-->
 			</xsl:when>
 			<xsl:otherwise>
+				<!--				<mods version="3.4"> -->
 				<mods xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5"
 					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 					xmlns="http://www.loc.gov/mods/v3"
@@ -194,8 +150,9 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 				</mods>
 			</xsl:otherwise>
 		</xsl:choose>
+		
 	</xsl:template>
-	<xsl:template name="marcRecord" xpath-default-namespace="http://www.loc.gov/MARC21/slim">
+	<xsl:template name="marcRecord">
 		<xsl:variable name="leader" select="leader"/>
 		<xsl:variable name="leader6" select="substring($leader,7,1)"/>
 		<xsl:variable name="leader7" select="substring($leader,8,1)"/>
@@ -215,10 +172,8 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 				<xsl:when test="$leader6='p'">MM</xsl:when>
 				<xsl:when test="$leader6='m'">CF</xsl:when>
 				<xsl:when test="$leader6='e' or $leader6='f'">MP</xsl:when>
-				<xsl:when test="$leader6='g' or $leader6='k' or $leader6='o' or $leader6='r'"
-					>VM</xsl:when>
-				<xsl:when test="$leader6='c' or $leader6='d' or $leader6='i' or $leader6='j'"
-					>MU</xsl:when>
+				<xsl:when test="$leader6='g' or $leader6='k' or $leader6='o' or $leader6='r'">VM</xsl:when>
+				<xsl:when test="$leader6='c' or $leader6='d' or $leader6='i' or $leader6='j'">MU</xsl:when>
 			</xsl:choose>
 		</xsl:variable>
 
@@ -2047,8 +2002,8 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 		<xsl:for-each select="datafield[@tag=752]">
 			<xsl:call-template name="createSubGeoFrom662752"/>
 		</xsl:for-each>
-
-		<!-- LC subject authority agricola from 072 -->
+		
+		<!--Revision 1.96 - added LC subject authority agricola from 072 -->
 		<xsl:for-each select="datafield[@tag=072][@ind2=0]">
 			<subject authority="agricola">
 				<topic>
@@ -2076,8 +2031,9 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 		<xsl:for-each select="datafield[@tag='086']">
 			<xsl:call-template name="createClassificationFrom086"/>
 		</xsl:for-each>
-
-		<!-- LC classification from 070 -->
+		
+		
+		<!-- Revision 1.96 - LC classification from 070 --> | identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23
 		<xsl:if test="datafield[@tag=070][@ind1=0]/subfield[@code='a']">
 			<classification authority="nal">
 				<xsl:value-of select="datafield[@tag=070][@ind1=0]/subfield[@code='a']"/>
@@ -2534,7 +2490,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 				</identifier>
 			</xsl:if>
 		</xsl:for-each>
-
+		<!-- Revision 1.96 - identifier from 024 -->  and notes from 910, 930, 945, 946, 974 LC 2014/04/23
 		<xsl:for-each select="datafield[@tag='024'][@ind1='0']">
 			<xsl:if test="subfield[@code='a']">
 				<identifier type="isrc">
@@ -2605,7 +2561,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 			</identifier>
 		</xsl:if>
 
-		<!-- LC  identifier from 001 -->
+		<!-- Revision 1,96 - LC identifier from 001 -->
 		<xsl:if test="controlfield[@tag=001]">
 			<identifier type="control">
 				<xsl:value-of select="controlfield[@tag=001]"/>
@@ -2796,6 +2752,10 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 			<xsl:for-each select="leader[substring($leader,19,1)='a']">
 				<descriptionStandard>aacr</descriptionStandard>
 			</xsl:for-each>
+			<!--<xsl:for-each select="leader[substring($leader,19,1)='i']">
+				<descriptionStandard>rda</descriptionStandard>
+			</xsl:for-each>-->
+			
 
 			<xsl:for-each select="datafield[@tag=040]">
 				<xsl:if test="subfield[@code='e']">
@@ -2818,6 +2778,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 					<xsl:value-of select="."/>
 				</recordChangeDate>
 			</xsl:for-each>
+			<!-- Revision 1.96 - LC record identifier -->
 			<xsl:for-each select="controlfield[@tag=001]">
 				<recordIdentifier>
 					<xsl:if test="../controlfield[@tag=003]">
@@ -2842,6 +2803,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 		</recordInfo>
 	</xsl:template>
 
+<!--Revision 1.97 - Added displayForm to 700 JG 2014/05/29-->
 	<xsl:template name="displayForm">
 		<xsl:for-each select="subfield[@code='a']">
 			<displayForm>
@@ -2879,6 +2841,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 			</role>
 		</xsl:for-each>
 	</xsl:template>
+
 	<xsl:template name="part">
 		<xsl:variable name="partNumber">
 			<xsl:call-template name="specialSubfieldSelect">
@@ -3266,8 +3229,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 			</xsl:if>
 		</xsl:if>
 	</xsl:template>
-	<!-- 1.75
-		fix -->
+	<!-- 1.75 fix -->
 	<xsl:template name="subject653Type">
 		<xsl:if test="@ind2!=' '">
 			<xsl:if test="@ind2!='0'">
@@ -5763,7 +5725,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 	<xsl:template match="* | @*" mode="global_copy">
 		<xsl:copy>
 			<xsl:apply-templates select="* | @* | text()" mode="global_copy"/>
-		</xsl:copy> 
+		</xsl:copy>
 	</xsl:template>
 
 	<!-- name affiliation 910 -->

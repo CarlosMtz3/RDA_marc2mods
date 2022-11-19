@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.4">
+   <titleInfo>
+      <title>Wesen, Bedeutung und Anwendbarkeit der "freien Wirthschaft"</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Wirtschaft</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng.">
+      <title>The nature, meaning and applicability of "free economy"</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart>Bytschkow, Gedeon von.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent/ger">Text-txt</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Göttingen</placeTerm>
+      </place>
+      <publisher>Dieterich</publisher>
+      <dateIssued>1879</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>46 Seiten ; 8°</extent>
+      <form type="media" authority="rdamedia/ger">ohne Hilfsmittel zu benutzen</form>
+      <form type="carrier" authority="rdacarrier/ger">Band</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00">Gedeon von Bytschkow.</note>
+   <subject authority="gtt">
+      <topic>Hochschulschrift</topic>
+   </subject>
+   <classification authority="ssgn">24</classification>
+   <recordInfo>
+      <recordContentSource authority="marcorg">ZXW</recordContentSource>
+      <recordCreationDate encoding="marc">000126</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180418002754.1</recordChangeDate>
+      <recordIdentifier>47320441</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.95 2014/12/19)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

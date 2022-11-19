@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      version="3.4">
+   <titleInfo>
+      <title>Wesen, Bedeutung und Anwendbarkeit der "freien Wirthschaft"
+</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Wirtschaft</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng.">
+      <title>The nature, meaning and applicability of "free economy"
+</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gedeon von</namePart>
+      <namePart type="family">Bytschkow</namePart>
+      <displayForm>Bytschkow, Gedeon von</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">globe</genre>
+   <genre authority="marcgt">dictionary</genre>
+   <genre authority="rdacontent/ger">Text-txt</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">000</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Göttingen</placeTerm>
+      </place>
+      <publisher>Dieterich</publisher>
+      <dateIssued>1879</dateIssued>
+      <dateIssued encoding="marc">1879gw</dateIssued>
+      <dateIssued encoding="marc">1879</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <physicalDescription>
+      <extent>46 Seiten ; 8°</extent>
+      <form type="media" authority="rdamedia/ger">ohne Hilfsmittel zu benutzen</form>
+      <form type="carrier" authority="rdacarrier/ger">Band</form>
+   </physicalDescription>
+   <targetAudience authority="marctarget">adult</targetAudience>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Gedeon von Bytschkow.</note>
+   <subject authority="gtt">
+      <topic>Hochschulschrift</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+   </subject>
+   <classification authority="ssgn">24</classification>
+   <classification authority="nal">281 B99</classification>
+   <identifier type="control">47320441</identifier>
+   <identifier type="agricola">CAT10942233</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">ZXW</recordContentSource>
+      <recordCreationDate encoding="marc">000126</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180418002754.1</recordChangeDate>
+      <recordIdentifier>47320441</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.95 2014/04/23)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

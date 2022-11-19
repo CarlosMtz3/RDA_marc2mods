@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      version="3.4">
+   <titleInfo>
+      <title>IAgodovodstvo</title>
+      <subTitle>(dli︠a︡ raĭonov sredneĭ polosy SSSR) : (uchebnoe posobie dli︠a︡
+                shkol sovkhozucheĭ) : Sostavleno bridagoĭ sotrudnikov Moskovskoĭ zonalʹnoĭ
+                plodo- plodo-i︠a︡godnoĭ opytnoĭ stantsii</subTitle>
+   </titleInfo>
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>&lt;&gt;</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng">
+      <title>And annual management</title>
+      <subTitle>(length︠a︡ regions of the middle belt of the USSR): (textbook
+                length︠a︡ state farm schools): Compiled by a team of employees of the Moscow Zonal
+                Fruit-and-Food Experimental Station</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Moscow</namePart>
+      <namePart>Zonalʹnai︠a︡ plodo-i︠a︡godnai︠a︡ opytnai︠a︡ stantsii︠a︡.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">dictionary</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">l00</placeTerm>
+      </place>
+      <dateIssued>1932</dateIssued>
+      <dateIssued encoding="marc">1932ru</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <physicalDescription>
+      <extent>231 p.</extent>
+   </physicalDescription>
+   <note>Non-Latin script record</note>
+   <subject authority="atg">
+      <topic>plant cultural practices</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>horticulture</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>horticultural crops</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>crop production</topic>
+   </subject>
+   <classification authority="nal">94 M85</classification>
+   <titleInfo altRepGroup="01" script="Cyrl">
+      <title>ИАгодоводство : ł(&amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&amp;#x20ac;&amp;#xd0;ʻ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x20ac;&amp;#xd0;æ&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x2039;
+                &amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;&amp;#xa0;) :
+                (&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ł&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;æ
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ł&amp;#xd0;ı&amp;#xd0;æ
+                &amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&#x98;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x2026;&amp;#xd0;&amp;#xbe;&amp;#xd0;ʺ&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;)
+                :
+                &amp;#xd0;Ł&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ø&amp;#xd0;&amp;#xbb;&amp;#xd0;æ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;
+                &amp;#xd0;ł&amp;#xd1;&amp;#x20ac;&amp;#xd0;ı&amp;#xd0;þ&amp;#xd0;ʻ&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x20ac;&amp;#xd1;&amp;#x192;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;ı&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd0;&amp;#x153;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;ʺ&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;ʻ&amp;#xd0;&amp;#xbb;&amp;#xd1;&amp;#x152;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbf;&amp;#xd1;&amp;#x2039;&amp;#xd1;&amp;#x201a;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ư&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x81;&amp;#xd0;ı&amp;#xd0;ı</title>
+      <partNumber>ł(&amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&amp;#x20ac;&amp;#xd0;ʻ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x20ac;&amp;#xd0;æ&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x2039;
+                &amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;&amp;#xa0;) :
+                (&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ł&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;æ
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ł&amp;#xd0;ı&amp;#xd0;æ
+                &amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&#x98;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x2026;&amp;#xd0;&amp;#xbe;&amp;#xd0;ʺ&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;)
+                :
+                &amp;#xd0;Ł&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ø&amp;#xd0;&amp;#xbb;&amp;#xd0;æ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;
+                &amp;#xd0;ł&amp;#xd1;&amp;#x20ac;&amp;#xd0;ı&amp;#xd0;þ&amp;#xd0;ʻ&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x20ac;&amp;#xd1;&amp;#x192;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;ı&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd0;&amp;#x153;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;ʺ&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;ʻ&amp;#xd0;&amp;#xbb;&amp;#xd1;&amp;#x152;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbf;&amp;#xd1;&amp;#x2039;&amp;#xd1;&amp;#x201a;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ư&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x81;&amp;#xd0;ı&amp;#xd0;ı</partNumber>
+      <partName>ł(&amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&amp;#x20ac;&amp;#xd0;ʻ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x20ac;&amp;#xd0;æ&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x2039;
+                &amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;&amp;#xa0;) :
+                (&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ł&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;æ
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ł&amp;#xd0;ı&amp;#xd0;æ
+                &amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&#x98;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x2026;&amp;#xd0;&amp;#xbe;&amp;#xd0;ʺ&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;)
+                :
+                &amp;#xd0;Ł&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ø&amp;#xd0;&amp;#xbb;&amp;#xd0;æ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;
+                &amp;#xd0;ł&amp;#xd1;&amp;#x20ac;&amp;#xd0;ı&amp;#xd0;þ&amp;#xd0;ʻ&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x20ac;&amp;#xd1;&amp;#x192;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;ı&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd0;&amp;#x153;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;ʺ&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;ʻ&amp;#xd0;&amp;#xbb;&amp;#xd1;&amp;#x152;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbf;&amp;#xd1;&amp;#x2039;&amp;#xd1;&amp;#x201a;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ư&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x81;&amp;#xd0;ı&amp;#xd0;ı</partName>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Cyrl">ł(&amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&amp;#x20ac;&amp;#xd0;ʻ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x20ac;&amp;#xd0;æ&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x2039;
+                &amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;Ł&amp;#xd0;&amp;#xa0;) :
+                (&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ł&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;æ
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ł&amp;#xd0;ı&amp;#xd0;æ
+                &amp;#xd0;þ&amp;#xd0;&amp;#xbb;&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł
+                &amp;#xd1;&#x98;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbb;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x2026;&amp;#xd0;&amp;#xbe;&amp;#xd0;ʺ&amp;#xd1;&amp;#x192;&amp;#xd1;&amp;#x2021;&amp;#xd0;æ&amp;#xd0;ı&amp;#xcc;&amp;#x2020;)
+                :
+                &amp;#xd0;Ł&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ø&amp;#xd0;&amp;#xbb;&amp;#xd0;æ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;
+                &amp;#xd0;ł&amp;#xd1;&amp;#x20ac;&amp;#xd0;ı&amp;#xd0;þ&amp;#xd0;ʻ&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x20ac;&amp;#xd1;&amp;#x192;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;ı&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø
+                &amp;#xd0;&amp;#x153;&amp;#xd0;&amp;#xbe;&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ø&amp;#xd1;&amp;#x81;&amp;#xd0;ð&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;ʺ&amp;#xd0;&amp;#xbe;&amp;#xd0;ư&amp;#xd0;ʻ&amp;#xd0;&amp;#xbb;&amp;#xd1;&amp;#x152;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-
+                &amp;#xd0;&amp;#xbf;&amp;#xd0;&amp;#xbb;&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;&amp;#xbe;-&amp;#xd0;ıı̐&amp;#xa0;&amp;#xd0;ʻı̐Ł&amp;#xd0;đ&amp;#xd0;&amp;#xbe;&amp;#xd0;þ&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd0;&amp;#xbe;&amp;#xd0;&amp;#xbf;&amp;#xd1;&amp;#x2039;&amp;#xd1;&amp;#x201a;&amp;#xd0;ư&amp;#xd0;&amp;#xbe;&amp;#xd0;ı&amp;#xcc;&amp;#x2020;
+                &amp;#xd1;&amp;#x81;&amp;#xd1;&amp;#x201a;&amp;#xd0;ʻ&amp;#xd0;ư&amp;#xd1;&amp;#x201a;&amp;#xd1;&amp;#x81;&amp;#xd0;ı&amp;#xd0;ı.</note>
+   <identifier type="control">1289013237</identifier>
+   <identifier type="agricola">CAT10926644</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950222</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002857.2</recordChangeDate>
+      <recordIdentifier>1289013237</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.95 2014/04/23)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <marc:leader>00880cam a2200265Mi 4500</marc:leader>
+   <marc:controlfield tag="001">47320441</marc:controlfield>
+   <marc:controlfield tag="005">20180418002754.1</marc:controlfield>
+   <marc:controlfield tag="008">000126s1879    gw            000 0 ger d</marc:controlfield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">ZXW</marc:subfield>
+      <marc:subfield code="b">ger</marc:subfield>
+      <marc:subfield code="c">ZXW</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">AGL</marc:subfield>
+      <marc:subfield code="d">GBVCP</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="016" ind1="7" ind2=" ">
+      <marc:subfield code="a">CAT10942233</marc:subfield>
+      <marc:subfield code="2">DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="070" ind1="0" ind2=" ">
+      <marc:subfield code="a">281</marc:subfield>
+      <marc:subfield code="b">B99</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="072" ind1=" " ind2="0">
+      <marc:subfield code="a">E100</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="084" ind1=" " ind2=" ">
+      <marc:subfield code="a">24</marc:subfield>
+      <marc:subfield code="2">ssgn</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGLL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bytschkow, Gedeon von.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="242" ind1="1" ind2="0">
+      <marc:subfield code="a">The nature, meaning and applicability of "free economy" /</marc:subfield>
+      <marc:subfield code="c">Gedeon von Bytschkow.</marc:subfield>
+      <marc:subfield code="y">eng.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Wesen, Bedeutung und Anwendbarkeit der "freien Wirthschaft" /</marc:subfield>
+      <marc:subfield code="c">Gedeon von Bytschkow.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Wirtschaft</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Göttingen :</marc:subfield>
+      <marc:subfield code="b">Dieterich,</marc:subfield>
+      <marc:subfield code="c">1879.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">46 Seiten ;</marc:subfield>
+      <marc:subfield code="c">8°</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">Text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent/ger</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">ohne Hilfsmittel zu benutzen</marc:subfield>
+      <marc:subfield code="b">n</marc:subfield>
+      <marc:subfield code="2">rdamedia/ger</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">Band</marc:subfield>
+      <marc:subfield code="b">nc</marc:subfield>
+      <marc:subfield code="2">rdacarrier/ger</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="7">
+      <marc:subfield code="a">Hochschulschrift.</marc:subfield>
+      <marc:subfield code="2">gtt</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="029" ind1="1" ind2=" ">
+      <marc:subfield code="a">GBVCP</marc:subfield>
+      <marc:subfield code="b">309286840</marc:subfield>
+   </marc:datafield>
+</marc:record>

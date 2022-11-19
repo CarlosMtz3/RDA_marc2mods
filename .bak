@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Teaming with bacteria</title>
+      <subTitle>the organic gardener's guide to endophytic bacteria and the
+                rhizophagy cycle</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title/>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart/>
+      <displayForm>Lowenfels, Jeff,</displayForm>
+      <role>
+         <roleTerm type="text">author.</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">legal article</genre>
+   <genre authority="rdacontent"/>
+   <genre authority=""/>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">00</placeTerm>
+      </place>
+      <dateIssued encoding="marc">2022oru</dateIssued>
+      <dateIssued encoding="marc">2022</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <originInfo displayLabel="publisher">
+      <place>
+         <placeTerm type="text">Portland, Oregon :Timber Press,2022</placeTerm>
+      </place>
+      <publisher>Timber Press,</publisher>
+      <dateIssued>2022.</dateIssued>
+   </originInfo>
