@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Preliminary report on new industries</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Washington State Planning Council</namePart>
+      <namePart>Committee on New Industries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">935</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Olympia]</placeTerm>
+      </place>
+      <dateIssued>1935</dateIssued>
+      <dateIssued encoding="marc">1935</dateIssued>
+      <dateIssued encoding="marc">1935</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>1 v. (40 unnumbered leaves)</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <subject>
+      <geographicCode authority="marcgac">n-us-wa</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Industries</topic>
+      <geographic>Washington (State)</geographic>
+   </subject>
+   <subject authority="aat">
+      <topic>industries (organizations)</topic>
+   </subject>
+   <subject authority="aat">
+      <topic>industry (economic concept)</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Industries</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X700</topic>
+      <topic>Economics and Management</topic>
+   </subject>
+   <classification authority="nal">280.7 W276</classification>
+   <location>
+      <url displayLabel="HathiTrust Digital Library" usage="primary">http://catalog.hathitrust.org/api/volumes/oclc/41802650.html</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Preliminary report on new industries</title>
+      </titleInfo>
+      <name>
+         <namePart>Washington State Planning Council. Division of New Industries.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Olympia] 1935</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)952419200</identifier>
+   </relatedItem>
+   <identifier type="control">71086662</identifier>
+   <identifier type="agricola">CAT10904592</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950315</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221005155549.3</recordChangeDate>
+      <recordIdentifier>71086662</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

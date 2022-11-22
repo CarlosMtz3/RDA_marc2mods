@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>00595nam a2200217Mi 4500</marc:leader>
+   <marc:controlfield tag="001">1289057530</marc:controlfield>
+   <marc:controlfield tag="005">20211217002858.2</marc:controlfield>
+   <marc:controlfield tag="008">950223c19441938mnu           000 0 eng d</marc:controlfield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGL</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">AGL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="016" ind1="7" ind2=" ">
+      <marc:subfield code="a">CAT10891909</marc:subfield>
+      <marc:subfield code="2">DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="070" ind1="0" ind2=" ">
+      <marc:subfield code="a">96</marc:subfield>
+      <marc:subfield code="b">Ab3</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="072" ind1=" " ind2="0">
+      <marc:subfield code="a">F110</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">AGLL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Abbott, Daisy Thomson.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The northern garden week by week.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Minneapolis, MN :</marc:subfield>
+      <marc:subfield code="b">University of Minnesota Press,</marc:subfield>
+      <marc:subfield code="c">[1944, c1938]</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">93 p.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">plant cultural practices.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">horticulture.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">horticultural crops.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="3">
+      <marc:subfield code="a">crop production.</marc:subfield>
+   </marc:datafield>
+</marc:record>

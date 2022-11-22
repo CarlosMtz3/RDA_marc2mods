@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>"The </nonSort>
+      <title>cattle loan company"</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Forrest M.</namePart>
+      <namePart type="family">Larmer</namePart>
+      <displayForm>Larmer, Forrest M.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="fast">Academic theses.</genre>
+   <genre authority="lcgft">Academic theses.</genre>
+   <genre authority="rvmgf">TheÌ&#x80;ses et eÌ&#x81;crits acadeÌ&#x81;miques.</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">918</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Chicago</placeTerm>
+      </place>
+      <dateIssued>1918</dateIssued>
+      <dateIssued>1918 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ii, 95, vi f. including tables ; 4to</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">by Forrest M. Larmer.</note>
+   <note>Typewritten.</note>
+   <note type="thesis">University of Chicago 1918</note>
+   <note type="thesis">Dissertation, Univ. of Chicago, 1918.</note>
+   <note type="bibliography">Bibliography, f. i-vi.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cattle trade</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Animal industry</topic>
+      <geographic>United States</geographic>
+      <topic>Finance</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural credit</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <topic>Cattle</topic>
+      <topic>Trade and Industry</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <topic>Cattle loan companies</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>L100</topic>
+      <topic>Animal Production</topic>
+   </subject>
+   <classification authority="nal">284.2 L32</classification>
+   <identifier type="control">39149676</identifier>
+   <identifier type="agricola">CAT10909071</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile>A-unprefixed-marc.xml</archiveFile>
+      <originalFile>N-unprefixed-marc.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">NYP</recordContentSource>
+      <recordCreationDate encoding="marc">980520</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221011195804.9</recordChangeDate>
+      <recordIdentifier>39149676</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

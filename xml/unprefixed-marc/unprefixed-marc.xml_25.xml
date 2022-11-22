@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>IAgodovodstvo</title>
+      <subTitle>(dliï¸ aï¸¡ raiÌ&#x86;onov sredneiÌ&#x86; polosy SSSR) : (uchebnoe posobie dliï¸ aï¸¡ shkol sovkhozucheiÌ&#x86;) : Sostavleno bridagoiÌ&#x86; sotrudnikov MoskovskoiÌ&#x86; zonalÊ¹noiÌ&#x86; plodo- plodo-iï¸ aï¸¡godnoiÌ&#x86; opytnoiÌ&#x86; stantsii</subTitle>
+   </titleInfo>
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>&lt;&gt;</title>
+   </titleInfo>
+   <titleInfo type="translated">
+      <title>And annual management: (lengthï¸ aï¸¡ regions of the middle zone of the USSR): (textbook lengthï¸ aï¸¡ state farm schools): Compiled by a team of employees of the Moscow Zonal Fruit-and-aï¸¡experimental station</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Moscow (Russia)</namePart>
+      <namePart>ZonalÊ¹naiï¸ aï¸¡ plodo-iï¸ aï¸¡godnaiï¸ aï¸¡ opytnaiï¸ aï¸¡ stantsiiï¸ aï¸¡.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1932</dateIssued>
+      <dateIssued>1932 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> ru</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>231 p.</extent>
+   </physicalDescription>
+   <note>Non-Latin script record</note>
+   <note>Non-Latin script record</note>
+   <subject authority="atg">
+      <topic>plant cultural practices</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>horticulture</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>horticultural crops</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>crop production</topic>
+   </subject>
+   <classification authority="nal">94 M85</classification>
+   <titleInfo altRepGroup="01" script="Cyrl">
+      <title>(Ð´Ð»Ð¸ï)</title>
+      <subTitle>(Ð´Ð»Ð¸ï¸ Ð°ï¸¡ Ñ&#x80;Ð°Ð¸Ì&#x86;Ð¾Ð½Ð¾Ð² Ñ&#x81;Ñ&#x80;Ñ&#x8d;Ð´Ð½Ñ&#x8d;Ð¸Ì&#x86; Ð¿Ð¾Ð»Ð¾Ñ&#x81;Ð¸ Ñ&#x81;Ñ&#x81;Ñ&#x81;Ñ&#x80;) : (Ñ&#x83;Ñ&#x87;Ñ&#x8d;Ð±Ð½Ð¾Ñ&#x8d; Ð¿Ð¾Ñ&#x81;Ð¾Ð±Ð¸Ñ&#x8d; Ð´Ð»Ð¸ï¸ Ð°ï¸¡ Ñ&#x88;ÐºÐ¾Ð» Ñ&#x81;Ð¾Ð²ÐºÑ&#x85;Ð¾Ð·Ñ&#x83;Ñ&#x87;Ñ&#x8d;Ð¸Ì&#x86;) : Ñ&#x81;Ð¾Ñ&#x81;Ñ&#x82;Ð°Ð²Ð»Ñ&#x8d;Ð½Ð¾ Ð±Ñ&#x80;Ð¸Ð´Ð°Ð³Ð¾Ð¸Ì&#x86; Ñ&#x81;Ð¾Ñ&#x82;Ñ&#x80;Ñ&#x83;Ð´Ð½Ð¸ÐºÐ¾Ð² Ð¼Ð¾Ñ&#x81;ÐºÐ¾Ð²Ñ&#x81;ÐºÐ¾Ð¸Ì&#x86; Ð·Ð¾Ð½Ð°Ð»Ê¹Ð½Ð¾Ð¸Ì&#x86; Ð¿Ð»Ð¾Ð´Ð¾- Ð¿Ð»Ð¾Ð´Ð¾-Ð¸ï¸ Ð°ï¸¡Ð³Ð¾Ð´Ð½Ð¾Ð¸Ì&#x86; Ð¾Ð¿Ð¸Ñ&#x82;Ð½Ð¾Ð¸Ì&#x86; Ñ&#x81;Ñ&#x82;Ð°Ð½'Ñ&#x86;Ð¸Ð¸</subTitle>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Cyrl"/>
+   <identifier type="control">1289013237</identifier>
+   <identifier type="agricola">CAT10926644</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/unprefixed-marc.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950222</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002857.2</recordChangeDate>
+      <recordIdentifier>1289013237</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

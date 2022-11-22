@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Research on the sixteen representative family-farms by the accounting method in the neighboring prefectures near Kyoto, in the year 1927</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Kyoto</namePart>
+      <namePart>University.</namePart>
+      <namePart>Dept. of Agriculture.</namePart>
+      <namePart>Institute of Agricultural Economies.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1932</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>8, 66 p.</extent>
+   </physicalDescription>
+   <subject authority="atg">
+      <topic>microeconomics</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>farm management</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E200</topic>
+      <topic>Farm Organization and Management (Microeconomics)</topic>
+   </subject>
+   <classification authority="nal">281.183 K99</classification>
+   <identifier type="control">1289109094</identifier>
+   <identifier type="agricola">CAT10906029</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950310</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002857.1</recordChangeDate>
+      <recordIdentifier>1289109094</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

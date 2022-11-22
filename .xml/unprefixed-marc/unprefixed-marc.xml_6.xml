@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>cattle loan company</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Forrest Mabry</namePart>
+      <namePart type="family">Larmer</namePart>
+      <displayForm>Larmer, Forrest Mabry</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">918</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1918</dateIssued>
+      <dateIssued>1918 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>95 leaves</extent>
+   </physicalDescription>
+   <subject authority="atg">
+      <topic>animal production</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <classification authority="nal">284.2 L32</classification>
+   <identifier type="control">1289118575</identifier>
+   <identifier type="agricola">CAT10909071</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/unprefixed-marc.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950314</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002858.0</recordChangeDate>
+      <recordIdentifier>1289118575</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

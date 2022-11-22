@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Preliminary report on new industries for Washington State Planning
+            Council</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Washington State Planning Council</namePart>
+      <namePart>Committee on New Industries.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">dictionary</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         <placeTerm type="text">No place, unknown or undetermined</placeTerm>
+      </place>
+      <dateIssued>1935</dateIssued>
+      <dateIssued>1935 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <physicalDescription>
+      <extent>various paging</extent>
+   </physicalDescription>
+   <targetAudience authority="marctarget">adult</targetAudience>
+   <note type="statement of responsibility" altRepGroup="00">Washington</note>
+   <subject authority="atg">
+      <topic>market analysis</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>economics</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X700</topic>
+      <topic>Economics and Management</topic>
+   </subject>
+   <classification authority="nal">280.7 W276</classification>
+   <identifier type="control">1288984233</identifier>
+   <identifier type="agricola">CAT10904592</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile>A-072-test3.xml</archiveFile>
+      <originalFile>N-072-test3.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/072-test/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950315</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002856.5</recordChangeDate>
+      <recordIdentifier>1288984233</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

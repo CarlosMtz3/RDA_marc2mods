@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Agricultural Credit Corporations</title>
+      <subTitle>hearings before the United States House Committee on Agriculture, Seventy-Second Congress, first session, on Feb. 10-12, 1932</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Congress.</namePart>
+      <namePart>House.</namePart>
+      <namePart>Committee on Agriculture.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Washington</placeTerm>
+      </place>
+      <publisher>U.S. Govt. Print. Off.</publisher>
+      <dateIssued>1932</dateIssued>
+      <dateIssued>1932 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>28 leaves : illustrations, map ; 28 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note>"Serial D."</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural credit</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agricultural credit</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>laws and regulations</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>natural resources</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>energy resources</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>P100</topic>
+      <topic>Energy Resources (General)</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>D500</topic>
+      <topic>Laws and Regulations</topic>
+   </subject>
+   <classification authority="nal">284.2 Un324A</classification>
+   <identifier type="control">698597</identifier>
+   <identifier type="agricola">CAT10909258</identifier>
+   <identifier type="oclc">ocm14139956</identifier>
+   <extension>
+      <note type="saleTape">20221007 20221008 20221002 20221008 20220929 20220929 20221003 20221003 00000000 20221001 20221003 20221002 20221002 20221002 20221002 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 20220407 00000000 00000000 00000000 00000000 00000000 00000000</note>
+      <note type="publicationSource">Non-US Non-US Other US State experiment station Other US Other US Other US Other US Other US Non-US Other US Other US Non-US Other US Non-US</note>
+      <vendorName/>
+      <archiveFile>A-set-21-vger-bibids_z3950.xml</archiveFile>
+      <originalFile>N-set-21-vger-bibids_z3950.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">CUY</recordContentSource>
+      <recordCreationDate encoding="marc">950313</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220929180103.0</recordChangeDate>
+      <recordIdentifier>698597</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

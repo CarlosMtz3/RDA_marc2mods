@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:record>
+      <marc:leader>01117cam a22003373i 4500</marc:leader>
+      <marc:controlfield tag="001">693000</marc:controlfield>
+      <marc:controlfield tag="005">20221007180115.0</marc:controlfield>
+      <marc:controlfield tag="008">950310s1932    xx            000 0 ger d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)on1289098633</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">693000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGL</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">AGL</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10971651</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">281.175</marc:subfield>
+         <marc:subfield code="b">N39</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Neuhaus, Rudolf,</marc:subfield>
+         <marc:subfield code="d">1903-</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="242" ind1="1" ind2="0">
+         <marc:subfield code="a">Development tendencies of mountain agriculture /</marc:subfield>
+         <marc:subfield code="c">Rudolf Neuhaus.</marc:subfield>
+         <marc:subfield code="y">eng</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Entwicklungstendenzen der bergischen Landwirtschaft /</marc:subfield>
+         <marc:subfield code="c">Rudolf Neuhaus.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Düsseldorf :</marc:subfield>
+         <marc:subfield code="b">Nolte,</marc:subfield>
+         <marc:subfield code="c">1932.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">89 pages :</marc:subfield>
+         <marc:subfield code="b">charts, diagrams ;</marc:subfield>
+         <marc:subfield code="c">23 cm. +</marc:subfield>
+         <marc:subfield code="e">2 fold</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Hill farming</marc:subfield>
+         <marc:subfield code="z">Germany.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agricultural ecology</marc:subfield>
+         <marc:subfield code="z">Germany.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Hill farming.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00956799</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">Germany.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01210272</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221007</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Non-US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/28</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01543ctm a2200433Mi 4500</marc:leader>
+      <marc:controlfield tag="001">701656</marc:controlfield>
+      <marc:controlfield tag="005">20221008084025.0</marc:controlfield>
+      <marc:controlfield tag="008">950314s1933    gw       m    000 0 ger d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocn843305805</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">701656</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">ZAP</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">ZAP</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">e-gx---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10972402</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">284.6</marc:subfield>
+         <marc:subfield code="b">L19</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E200</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Lampe, Hermann,</marc:subfield>
+         <marc:subfield code="d">1902-</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="242" ind1="1" ind2="0">
+         <marc:subfield code="a">Studies on hail damage and hail damage compensation in agriculture /</marc:subfield>
+         <marc:subfield code="c">Hermann Lampe.</marc:subfield>
+         <marc:subfield code="y">eng</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Untersuchungen uber Hagelschaden und Hagelschadenentschadigung in der Landwirtschaft /</marc:subfield>
+         <marc:subfield code="c">Hermann Lampe.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="0">
+         <marc:subfield code="c">1933.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">198 pages</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="502" ind1=" " ind2=" ">
+         <marc:subfield code="b">doctoral</marc:subfield>
+         <marc:subfield code="c">Landwirtschaftliche Hochschule, Berlin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Plants</marc:subfield>
+         <marc:subfield code="x">Effect of hail on</marc:subfield>
+         <marc:subfield code="z">Germany.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Hail insurance</marc:subfield>
+         <marc:subfield code="z">Germany.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Hail insurance.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01715838</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Plants</marc:subfield>
+         <marc:subfield code="x">Effect of hail on.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01065941</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">microeconomics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">farm management.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">Germany.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01210272</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Academic theses.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01726453</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Academic theses.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Thèses et écrits académiques.</marc:subfield>
+         <marc:subfield code="2">rvmgf</marc:subfield>
+         <marc:subfield code="0">(CaQQLa)RVMGF-000001173</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221008</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Non-US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/28</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01785cam a2200445Mi 4500</marc:leader>
+      <marc:controlfield tag="001">688303</marc:controlfield>
+      <marc:controlfield tag="005">20221002083618.0</marc:controlfield>
+      <marc:controlfield tag="008">950224s1893    mau           000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm82905423</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">688303</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">HLS</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">HLS</marc:subfield>
+         <marc:subfield code="d">OCLCG</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT106883032</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">98</marc:subfield>
+         <marc:subfield code="b">M31L</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">P300</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">F110</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Manning, Warren H.</marc:subfield>
+         <marc:subfield code="q">(Warren Henry),</marc:subfield>
+         <marc:subfield code="d">1860-1938.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Landscape gardening :</marc:subfield>
+         <marc:subfield code="b">a paper read before the Massachusetts Horticultural Society January 21, 1883 /</marc:subfield>
+         <marc:subfield code="c">by Warren H. Manning.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Boston, Massachusetts. :</marc:subfield>
+         <marc:subfield code="b">The Society,</marc:subfield>
+         <marc:subfield code="c">1893.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">16 pages ;</marc:subfield>
+         <marc:subfield code="c">24 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"From Transactions of the Massachusetts Horticultural Society.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Landscape gardening.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Landscape architecture.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Landscape architecture.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00991814</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">landscape gardening.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+         <marc:subfield code="0">(CStmoGRI)aat300054708</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Landscape gardening.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00991916</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">plant cultural practices</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">horticulture</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">horticultural crops</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">crop production</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">natural resources</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">land resources</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">land management</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Massachusetts Horticultural Society.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221002</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/28</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01342cam a2200349Ia 4500</marc:leader>
+      <marc:controlfield tag="001">691808</marc:controlfield>
+      <marc:controlfield tag="005">20221008180039.0</marc:controlfield>
+      <marc:controlfield tag="008">950310s1926    idub          000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm49538114</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">691808</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">OIS</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">OIS</marc:subfield>
+         <marc:subfield code="d">NTD</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCA</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us-id</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10906338</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">281.2</marc:subfield>
+         <marc:subfield code="b">Id1</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Economic survey of Idaho agriculture :</marc:subfield>
+         <marc:subfield code="b">progress report.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2=" ">
+         <marc:subfield code="a">Economic survey of Idaho agriculture report of progress</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Boise, Idaho :</marc:subfield>
+         <marc:subfield code="b">Agricultural Experiment Station and Extension Service, Idaho State Dept. of Agriculture and U.S. Dept. of Agriculture,</marc:subfield>
+         <marc:subfield code="c">1926.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">14 leaves :</marc:subfield>
+         <marc:subfield code="b">maps ;</marc:subfield>
+         <marc:subfield code="c">28 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">June 10, 1926.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agriculture</marc:subfield>
+         <marc:subfield code="x">Economic aspects</marc:subfield>
+         <marc:subfield code="z">Idaho.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">University of Idaho.</marc:subfield>
+         <marc:subfield code="b">Agricultural Experiment Station and Extension Service.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">Idaho.</marc:subfield>
+         <marc:subfield code="b">Department of Agriculture.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Department of Agriculture.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221008</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">State experiment station</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/28</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01808cam a22003977  4500</marc:leader>
+      <marc:controlfield tag="001">698295</marc:controlfield>
+      <marc:controlfield tag="005">20220929180103.0</marc:controlfield>
+      <marc:controlfield tag="008">950313s1935    dcu           000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm21254648</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">698295</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FRG</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FRG</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCA</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10908756</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">284</marc:subfield>
+         <marc:subfield code="b">Un35In</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">D500</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Congress.</marc:subfield>
+         <marc:subfield code="b">House.</marc:subfield>
+         <marc:subfield code="b">Committee on Banking and Currency.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Intermediate credit corporation :</marc:subfield>
+         <marc:subfield code="b">hearings before the Committee on Banking and Currency, House of Representatives, Seventy-fourth Congress, first session, on H.R. 5918, a bill to provide for the creation of an intermediate credit corporation for commerce and industry, to aid in financing small and medium sized commercial and industrial establishments, and for other purposes. May 27, 28, 29, June 3, 4, 5, and 6, 1935.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Washington :</marc:subfield>
+         <marc:subfield code="b">U.S. Government Printing Office,</marc:subfield>
+         <marc:subfield code="c">1935.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">146 pages ;</marc:subfield>
+         <marc:subfield code="c">24 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Part 2, Hearings ... on H.R. 5918 (H.R. 9090). July 30, 31, August 1, 1935.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Credit</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Banks and banking</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Industrial policy</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Credit.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00882525</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Industrial policy.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00971433</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">laws and regulations</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155 n</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20220929</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/29</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01537cam a22003977i 4500</marc:leader>
+      <marc:controlfield tag="001">698597</marc:controlfield>
+      <marc:controlfield tag="005">20220929180103.0</marc:controlfield>
+      <marc:controlfield tag="008">950313s1932    dcu          f000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm14139956</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">698597</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">CUY</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">CUY</marc:subfield>
+         <marc:subfield code="d">OCL</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">UBY</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10909258</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">284.2</marc:subfield>
+         <marc:subfield code="b">Un324A</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">P100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">D500</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Congress.</marc:subfield>
+         <marc:subfield code="b">House.</marc:subfield>
+         <marc:subfield code="b">Committee on Agriculture.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Agricultural Credit Corporations :</marc:subfield>
+         <marc:subfield code="b">hearings before the United States House Committee on Agriculture, Seventy-Second Congress, first session, on Feb. 10-12, 1932.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Washington :</marc:subfield>
+         <marc:subfield code="b">U.S. Govt. Print. Off.,</marc:subfield>
+         <marc:subfield code="c">1932.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">28 leaves :</marc:subfield>
+         <marc:subfield code="b">illustrations, map ;</marc:subfield>
+         <marc:subfield code="c">28 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Serial D."</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agricultural credit</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Agricultural credit.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00800626</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">laws and regulations</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">natural resources</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">energy resources</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20220929</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/29</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01590cam a2200385Ia 4500</marc:leader>
+      <marc:controlfield tag="001">706415</marc:controlfield>
+      <marc:controlfield tag="005">20221003083552.0</marc:controlfield>
+      <marc:controlfield tag="008">950315s1933    dcu          f000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm42673739</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">706415</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DNU</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">DNU</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">WAU</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">VPI</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10930310</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">173.2</marc:subfield>
+         <marc:subfield code="b">H75H</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="086" ind1="0" ind2=" ">
+         <marc:subfield code="a">Y 3.F 31/3:2 Sa 9</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">How to organize a federal savings and loan association :</marc:subfield>
+         <marc:subfield code="b">the federal way to thrift and home ownership.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">[Washington, D.C.] :</marc:subfield>
+         <marc:subfield code="b">Federal Savings and Loan Association,</marc:subfield>
+         <marc:subfield code="c">[1933]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">12 pages ;</marc:subfield>
+         <marc:subfield code="c">23 x 11 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Cover title.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Savings and loan associations</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="x">Management.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Savings and loan associations</marc:subfield>
+         <marc:subfield code="x">Management.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01106015</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="3">
+         <marc:subfield code="a">Internet resource</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Federal Home Loan Bank Board.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="776" ind1="0" ind2="8">
+         <marc:subfield code="i">Online version:</marc:subfield>
+         <marc:subfield code="t">How to organize a federal savings and loan association.</marc:subfield>
+         <marc:subfield code="d">[Washington, D.C.] : Federal Savings and Loan Association, [1933]</marc:subfield>
+         <marc:subfield code="w">(OCoLC)919943070</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="1">
+         <marc:subfield code="3">HathiTrust Digital Library</marc:subfield>
+         <marc:subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/42673739.html</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221003</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/29</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01429cam a22003972i 4500</marc:leader>
+      <marc:controlfield tag="001">694512</marc:controlfield>
+      <marc:controlfield tag="005">20221003083553.0</marc:controlfield>
+      <marc:controlfield tag="008">950310s1915    nyu           000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm71079600</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">694512</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGL</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">WAU</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10904031</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us-ny</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">280.393</marc:subfield>
+         <marc:subfield code="b">N48</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">Q005</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="2" ind2=" ">
+         <marc:subfield code="a">New York Central and Hudson River Railroad Company.</marc:subfield>
+         <marc:subfield code="b">Agricultural Department.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Packing apples in central packing houses and the New York apple packing law.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="c">[1915?]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">15 pages</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Packing for shipment.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Apples</marc:subfield>
+         <marc:subfield code="z">New York (State)</marc:subfield>
+         <marc:subfield code="x">Marketing.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Apples</marc:subfield>
+         <marc:subfield code="x">Handling</marc:subfield>
+         <marc:subfield code="z">New York (State)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Apples</marc:subfield>
+         <marc:subfield code="x">Marketing.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00811678</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Packing for shipment.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01050238</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">plant-based foods</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">horticultural crops</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">food packaging</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">New York (State)</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01210280</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">New York Central Lines.</marc:subfield>
+         <marc:subfield code="b">Agricultural Department.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221003</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/10/03</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01544cam a22003491i 4500</marc:leader>
+      <marc:controlfield tag="001">707265</marc:controlfield>
+      <marc:controlfield tag="005">20221001083629.0</marc:controlfield>
+      <marc:controlfield tag="008">950316s1923    nyua     d    000 0 eng d</marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10931488</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm37771691</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">707265</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">NYP</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">NYP</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">KRTAS</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">200</marc:subfield>
+         <marc:subfield code="b">C74</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">X000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="4">
+         <marc:subfield code="a">The concise Standard dictionary of the English language :</marc:subfield>
+         <marc:subfield code="b">designed to give the orthography, pronunciation, and meaning of about 35,000 words and phrases in the speech and literature of the English-speaking peoples; 780 pictorial illus. /</marc:subfield>
+         <marc:subfield code="c">abridged from the Funk &amp; Wagnalls New Standard dictionary of the English language by James C. Fernald.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">New York :</marc:subfield>
+         <marc:subfield code="b">Funk &amp; Wagnalls Co.,</marc:subfield>
+         <marc:subfield code="c">1923.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">v, 583 pages :</marc:subfield>
+         <marc:subfield code="b">illustrations ;</marc:subfield>
+         <marc:subfield code="c">17 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">still image</marc:subfield>
+         <marc:subfield code="b">sti</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">English language</marc:subfield>
+         <marc:subfield code="v">Dictionaries.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">English language.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00910920</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">information sources</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">dictionaries.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+         <marc:subfield code="0">(CStmoGRI)aatgf300026186</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Dictionaries.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01423826</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Dictionaries.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Dictionnaires.</marc:subfield>
+         <marc:subfield code="2">rvmgf</marc:subfield>
+         <marc:subfield code="0">(CaQQLa)RVMGF-000001060</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Fernald, James C.</marc:subfield>
+         <marc:subfield code="q">(James Champlin),</marc:subfield>
+         <marc:subfield code="d">1838-1918,</marc:subfield>
+         <marc:subfield code="e">editor.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">00000000</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">20220407</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/09/30</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01279cam a22003732  4500</marc:leader>
+      <marc:controlfield tag="001">707452</marc:controlfield>
+      <marc:controlfield tag="005">20221001083631.0</marc:controlfield>
+      <marc:controlfield tag="008">950316s1911    enk           000 0 eng d</marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10931697</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm35659205</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">707452</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">ZCU</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">ZCU</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="041" ind1="0" ind2=" ">
+         <marc:subfield code="a">eng</marc:subfield>
+         <marc:subfield code="a">tam</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">209</marc:subfield>
+         <marc:subfield code="b">W63 Ed.2</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">X000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Wickremasinghe, Don M. de Z.,</marc:subfield>
+         <marc:subfield code="d">1865-1937.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Tamil grammar self-taught. :</marc:subfield>
+         <marc:subfield code="b">(In Tamil and Roman characters) /</marc:subfield>
+         <marc:subfield code="c">Martino de Zilva Wickermawsinghe.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">2d ed.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">London,</marc:subfield>
+         <marc:subfield code="b">E. Marlborough,</marc:subfield>
+         <marc:subfield code="c">[1911]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">96 pages.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="490" ind1="1" ind2=" ">
+         <marc:subfield code="a">Marlborough's self-taught series</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Tamil language</marc:subfield>
+         <marc:subfield code="v">Conversation and phrase books.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Tamil language.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01142467</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="1" ind2="7">
+         <marc:subfield code="a">Tamil (taal)</marc:subfield>
+         <marc:subfield code="2">gtt</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">information sources</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Conversation and phrase books.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01423775</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="830" ind1=" " ind2="0">
+         <marc:subfield code="a">Marlborough's self-taught series.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221001</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Non-US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/10/01</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01446ctm a2200385 a 4500</marc:leader>
+      <marc:controlfield tag="001">698498</marc:controlfield>
+      <marc:controlfield tag="005">20221003083552.0</marc:controlfield>
+      <marc:controlfield tag="008">950313s1925    xx       bm   000 0 eng d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm53094637</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">698498</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">ORU</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">ORU</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCL</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10909016</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">284.2</marc:subfield>
+         <marc:subfield code="b">H91</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Hunter, Kenneth H.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="2">
+         <marc:subfield code="a">A study of the history and efficacy of the Federal Agricultural Credit Act of 1923, with especial application to Oregon /</marc:subfield>
+         <marc:subfield code="c">by Kenneth H. Hunter.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="0">
+         <marc:subfield code="c">1925.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">69 leaves ;</marc:subfield>
+         <marc:subfield code="c">29 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Typescript.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="502" ind1=" " ind2=" ">
+         <marc:subfield code="b">M.B.A.</marc:subfield>
+         <marc:subfield code="c">University of Oregon</marc:subfield>
+         <marc:subfield code="d">1925</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agricultural credit</marc:subfield>
+         <marc:subfield code="x">Government policy</marc:subfield>
+         <marc:subfield code="z">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Agricultural credit</marc:subfield>
+         <marc:subfield code="x">Government policy.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00800637</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Academic theses.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01726453</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Academic theses.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Thèses et écrits académiques.</marc:subfield>
+         <marc:subfield code="2">rvmgf</marc:subfield>
+         <marc:subfield code="0">(CaQQLa)RVMGF-000001173</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221003</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01690cam a2200433 i 4500</marc:leader>
+      <marc:controlfield tag="001">683563</marc:controlfield>
+      <marc:controlfield tag="005">20221002083619.0</marc:controlfield>
+      <marc:controlfield tag="008">950202s1927    hiuab         001 0 eng  </marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10738814</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)on1288024173</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">683563</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">HUH</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">HUH</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us-hi</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">65</marc:subfield>
+         <marc:subfield code="b">A12</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">F120</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Alexander, Arthur C.</marc:subfield>
+         <marc:subfield code="q">(Arthur Chambers),</marc:subfield>
+         <marc:subfield code="d">1863-1954,</marc:subfield>
+         <marc:subfield code="e">author,</marc:subfield>
+         <marc:subfield code="e">cartographer.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Surveys and titles Koloa to Mahaulepu, District of Koloa, Kauai, T.H. /</marc:subfield>
+         <marc:subfield code="c">prepared for the Koloa Sugar Company by A.C. Alexander.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Hawaii] :</marc:subfield>
+         <marc:subfield code="b">[A.C. Alexander],</marc:subfield>
+         <marc:subfield code="c">1927.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">9 leaves, 5 leaves, 1 unnumbered leaf, 172 leaves, that is, 344 pages :</marc:subfield>
+         <marc:subfield code="b">maps ;</marc:subfield>
+         <marc:subfield code="c">34 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">cartographic image</marc:subfield>
+         <marc:subfield code="b">cri</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Land titles</marc:subfield>
+         <marc:subfield code="z">Hawaii</marc:subfield>
+         <marc:subfield code="z">Kauai.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">plant cultural practices</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">field crops</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">crop production</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agronomy</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="0">
+         <marc:subfield code="a">Kauai (Hawaii)</marc:subfield>
+         <marc:subfield code="v">Surveys.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Sugar growing</marc:subfield>
+         <marc:subfield code="z">Hawaii</marc:subfield>
+         <marc:subfield code="z">Kauai.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Sugar plantations</marc:subfield>
+         <marc:subfield code="z">Hawaii</marc:subfield>
+         <marc:subfield code="z">Kauai.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="2" ind2="0">
+         <marc:subfield code="a">Koloa Sugar Company.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Sugar growing.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01137390</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">Hawaii.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01208724</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Koloa Sugar Company,</marc:subfield>
+         <marc:subfield code="e">commissioning body.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221002</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/10/02</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01571cam a2200433 i 4500</marc:leader>
+      <marc:controlfield tag="001">701616</marc:controlfield>
+      <marc:controlfield tag="005">20221002083620.0</marc:controlfield>
+      <marc:controlfield tag="008">950314s1881    gw            000 0 ger d</marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10972382</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocn424643781</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">701616</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">KKU</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">KKU</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">e-gx---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">284.5</marc:subfield>
+         <marc:subfield code="b">P11 Ed.3</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">284.5</marc:subfield>
+         <marc:subfield code="b">P11</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">E200</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Pabst, H. W.</marc:subfield>
+         <marc:subfield code="q">(Heinrich Wilhelm),</marc:subfield>
+         <marc:subfield code="d">1798-1868.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="242" ind1="1" ind2="0">
+         <marc:subfield code="a">Agricultural appraisal theory /</marc:subfield>
+         <marc:subfield code="c">Heinrich Wilhelm von Pabst.</marc:subfield>
+         <marc:subfield code="y">eng</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Landwirthschaftliche Taxationslehre /</marc:subfield>
+         <marc:subfield code="c">H.W. von Pabst.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="3" ind2=" ">
+         <marc:subfield code="a">Taxationslehre</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">3. Aufl., vollständig umgearb. u. verm. /</marc:subfield>
+         <marc:subfield code="b">von Wilhelm von Hamm.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Berlin :</marc:subfield>
+         <marc:subfield code="b">Paul Parey,</marc:subfield>
+         <marc:subfield code="c">1881.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">viii, 212 pages ;</marc:subfield>
+         <marc:subfield code="c">24 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agriculture</marc:subfield>
+         <marc:subfield code="x">Taxation</marc:subfield>
+         <marc:subfield code="z">Germany.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agriculture</marc:subfield>
+         <marc:subfield code="x">Economic aspects.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Agriculture</marc:subfield>
+         <marc:subfield code="x">Economic aspects.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00801415</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Agriculture</marc:subfield>
+         <marc:subfield code="x">Taxation.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00801686</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">microeconomics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">farm management</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">agricultural economics</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">Germany.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01210272</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Hamm, Wilhelm von.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221002</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Non-US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/10/02</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>01123cam a2200361Mi 4500</marc:leader>
+      <marc:controlfield tag="001">707296</marc:controlfield>
+      <marc:controlfield tag="005">20221002180017.0</marc:controlfield>
+      <marc:controlfield tag="008">950316s1891    pau           000 0 eng  </marc:controlfield>
+      <marc:datafield tag="010" ind1=" " ind2=" ">
+         <marc:subfield code="a">   11002637 </marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm84318965</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">707296</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DLC</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">HLS</marc:subfield>
+         <marc:subfield code="d">DLC</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10931541</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="029" ind1="1" ind2=" ">
+         <marc:subfield code="a">AU@</marc:subfield>
+         <marc:subfield code="b">000041732214</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">200</marc:subfield>
+         <marc:subfield code="b">W67</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">X800</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">X800</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Willis, James Florence.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Practical punctuation for class and self-instruction /</marc:subfield>
+         <marc:subfield code="c">James F. Willis.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Philadelphia :</marc:subfield>
+         <marc:subfield code="b">[Woodruff &amp; Van Horn, printers],</marc:subfield>
+         <marc:subfield code="c">1891.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">99 pages ;</marc:subfield>
+         <marc:subfield code="c">16 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">English language</marc:subfield>
+         <marc:subfield code="x">Punctuation.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">English language</marc:subfield>
+         <marc:subfield code="x">Punctuation.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00911548</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">sociology.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">education.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">culture and humanities.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221002</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Other US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/10/02</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>02024cam a2200493 a 4500</marc:leader>
+      <marc:controlfield tag="001">687214</marc:controlfield>
+      <marc:controlfield tag="005">20221002180017.0</marc:controlfield>
+      <marc:controlfield tag="008">950217s1934    ru a     b    000 0 rus d</marc:controlfield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)ocm12141899</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">687214</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">VXG</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">VXG</marc:subfield>
+         <marc:subfield code="d">CRL</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT10890240</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="041" ind1="0" ind2=" ">
+         <marc:subfield code="a">rus</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="f">eng</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">90.11</marc:subfield>
+         <marc:subfield code="b">V53</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">F100</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="072" ind1=" " ind2="0">
+         <marc:subfield code="a">K001</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Vekhov, N. K.</marc:subfield>
+         <marc:subfield code="q">(Nikolaĭ Kuzʹmich)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Vegetativnoe razmnozhenie drevesnykh rasteniĭ letnimi cherenkami /</marc:subfield>
+         <marc:subfield code="c">N.K. Vekhov, M.P. Ilʹin.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2="5">
+         <marc:subfield code="a">Vegetative propagation of trees and shrubs by means of summer cuttings</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Leningrad :</marc:subfield>
+         <marc:subfield code="b">Izd. Vses. in-ta rastenievodstva,</marc:subfield>
+         <marc:subfield code="c">1934.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">283 pages :</marc:subfield>
+         <marc:subfield code="b">illustrations ;</marc:subfield>
+         <marc:subfield code="c">25 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="490" ind1="1" ind2=" ">
+         <marc:subfield code="a">Prilozhenie 61. k Trudam po prikladnoĭ botanike, genetike i selekt︠s︡ii</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">At head of title: Vsesoi︠u︡znai︠a︡ akademii︠a︡ selʹskokhozi︠a︡ĭstvennykh nauk im. Lenina. Institut rastenievodstva NKZ SSSR.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">In Russian; summaries in English; table of contents also in English.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="504" ind1=" " ind2=" ">
+         <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Plant cuttings.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Trees.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Shrubs.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">shrubs.</marc:subfield>
+         <marc:subfield code="2">aat</marc:subfield>
+         <marc:subfield code="0">(CStmoGRI)aat300132407</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Plant cuttings.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01065368</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Shrubs.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01117866</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="7">
+         <marc:subfield code="a">Trees.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01155984</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">forestry</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">plant cultural practices</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">crop production</marc:subfield>
+         <marc:subfield code="9">auto-assigned by category code</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Ilʹin, Mikhail P.</marc:subfield>
+         <marc:subfield code="d">1895-1953.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="830" ind1=" " ind2="0">
+         <marc:subfield code="a">Prilozhenie ... k Trudam po prikladnoĭ botanike, genetike i selekt︠s︡ii ;</marc:subfield>
+         <marc:subfield code="v">61.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20221002</marc:subfield>
+         <marc:subfield code="b">00000000</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">Non-US</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="a"/>
+         <marc:subfield code="c">2022/10/02</marc:subfield>
+         <marc:subfield code="e">cmartinez</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>

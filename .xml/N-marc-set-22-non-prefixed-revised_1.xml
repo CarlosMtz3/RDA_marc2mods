@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>newspaper and periodical press</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Alaska: its population, industries, and resources</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Seal islands of Alaska</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Shipbuilding industry in the United States</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>10th Census, 1880.</namePart>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart type="date"> 1849-1924</namePart>
+      <namePart type="given">S. N. D.</namePart>
+      <namePart type="family">North</namePart>
+      <displayForm> North, S. N. D.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="date"> 1842-</namePart>
+      <namePart type="given">Ivan</namePart>
+      <namePart type="family">Petroff</namePart>
+      <displayForm> Petroff, Ivan</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="date"> 1846-1930</namePart>
+      <namePart type="given">Henry Wood</namePart>
+      <namePart type="family">Elliott</namePart>
+      <displayForm>Elliott, Henry Wood</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="date"> 1845-1920</namePart>
+      <namePart type="given">Henry</namePart>
+      <namePart type="family">Hall</namePart>
+      <displayForm>Hall, Henry</displayForm>
+   </name>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Census Office,</namePart>
+      <role>
+         <roleTerm type="text">issuing body</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Department of the Interior,</namePart>
+      <role>
+         <roleTerm type="text">issuing body</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">884</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1884</dateIssued>
+      <dateIssued encoding="marc">1884</dateIssued>
+      <dateIssued encoding="marc">1884</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <originInfo displayLabel="publisher">
+      <place>
+         <placeTerm type="text">Washington, D.C.] :Department of the Interior :Census Office,[1884]</placeTerm>
+      </place>
+      <publisher/>
+      <dateIssued/>
+   </originInfo>
+   <originInfo displayLabel="manufacturer">
+      <place>
+         <placeTerm>Washington :</placeTerm>
+      </place>
+      <publisher>Government Printing Office,</publisher>
+      <dateOther type="manufacture">1884.</dateOther>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>1 v.</extent>
+      <extent>1 online resource (4 volumes in 1) : illustrations, maps</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">by S.N.D. North. Alaska : it's population, industries, and resources / by Peter Petroff. The Seal Islands of Alaska / by Henry W. Elliott. The shipbuilding industry in the United States / by Henry Hall.</note>
+   <note>Publication pre-dates item numbers. No item number has been assigned.</note>
+   <note type="bibliography">Includes bibliographical references and index.</note>
+   <note>Online resource, PDF version; title from cover (Census, viewed October 25, 2019).</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+      <geographicCode authority="marcgac">n-us-ak</geographicCode>
+   </subject>
+   <subject authority="atg">
+      <topic>market analysis</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>economics</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>mathematics and statistics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Press</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Newspapers</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Periodicals</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Industries</topic>
+      <geographic>Alaska</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Seals (Animals)</topic>
+      <geographic>Alaska</geographic>
+      <geographic>Pribilof Islands</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Sealing</topic>
+      <geographic>Alaska</geographic>
+      <geographic>Pribilof Islands</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shipbuilding</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Shipbuilding industry</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Presse</topic>
+      <geographic>États-Unis</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Journaux</topic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Périodiques</topic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Industrie</topic>
+      <geographic>Alaska</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Phoques</topic>
+      <geographic>Alaska</geographic>
+      <geographic>Pribilof, Îles</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Phoques</topic>
+      <topic>Chasse</topic>
+      <geographic>Alaska</geographic>
+      <geographic>Pribilof, Îles</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Construction navale</topic>
+      <geographic>États-Unis</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Construction navale</topic>
+      <topic>Industrie</topic>
+      <geographic>États-Unis</geographic>
+   </subject>
+   <subject authority="aat">
+      <topic>newspapers</topic>
+   </subject>
+   <subject authority="aat">
+      <topic>periodicals</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Industries</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Newspapers</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Periodicals</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Population</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Press</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Sealing</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Seals (Animals)</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Shipbuilding</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Shipbuilding industry</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Travel</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Alaska</geographic>
+      <topic>Description and travel</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Alaska</geographic>
+      <topic>Population</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Pribilof Islands (Alaska)</geographic>
+   </subject>
+   <subject authority="rvm">
+      <geographic>Alaska</geographic>
+      <topic>Descriptions et voyages</topic>
+   </subject>
+   <subject authority="rvm">
+      <geographic>Alaska</geographic>
+      <topic>Population</topic>
+   </subject>
+   <subject authority="rvm">
+      <geographic>Pribilof, Îles (Alaska)</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Alaska</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Alaska</geographic>
+      <geographic>Pribilof Islands</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X100</topic>
+      <topic>Mathematics and Statistics</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X700</topic>
+      <topic>Economics and Management</topic>
+   </subject>
+   <classification authority="nal">157.4 C10 v.8</classification>
+   <location>
+      <url displayLabel="electronic resource" usage="primary">https://purl.fdlp.gov/GPO/gpo127503</url>
+   </location>
+   <location>
+      <url displayLabel="electronic resource"
+           note="Address at time of PURL creation">https://www2.census.gov/prod2/decennial/documents/1880a_v8-01.pdf</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Newspaper and periodical press</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart> North, S. N. D.  (Simon Newton Dexter),</namePart>
+         <namePart type="date"> 1849-1924</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Seal Islands of Alaska</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Elliott, Henry Wood,</namePart>
+         <namePart type="date"> 1846-1930</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Newspaper and periodical press</title>
+      </titleInfo>
+      <name>
+         <namePart>United States. Census Office. 10th census, 1880.</namePart>
+      </name>
+      <identifier type="local">(OCoLC)12364551</identifier>
+   </relatedItem>
+   <identifier type="control">1289095729</identifier>
+   <identifier type="agricola">CAT10900958</identifier>
+   <extension/>
+   <recordInfo>
+      <descriptionStandard>RDA</descriptionStandard>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950316</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002858.3</recordChangeDate>
+      <recordIdentifier>1289095729</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Rural Credits</title>
+      <subTitle>hearings before the United States House Committee on Banking and Currency, Sixty-Seventh Congress, third session, on Nov. 24, 1922</subTitle>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>LexisNexis U.S. Congressional Hearings Digital Collection</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Congress.</namePart>
+      <namePart>House.</namePart>
+      <namePart>Committee on Banking and Currency.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="">Electronic books.</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">922</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Washington</placeTerm>
+      </place>
+      <publisher>U.S. G.P.O.</publisher>
+      <dateIssued>1922</dateIssued>
+      <dateIssued encoding="marc">1922</dateIssued>
+      <dateIssued encoding="marc">1922</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <reformattingQuality>preservation</reformattingQuality>
+      <form authority="marccategory">electronic resource</form>
+      <form authority="marcsmd">remote</form>
+      <extent>1 online resource (ii, 18 pages)</extent>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+   </physicalDescription>
+   <abstract>Considers legislation to establish agricultural credit corporations and to revise Federal Reserve bank procedures for discounting notes, drafts, and bills of exchange for agricultural or livestock paper.</abstract>
+   <abstract>Considers (67) S. 4063, (67) H.R. 13033.</abstract>
+   <abstract>Considers (67) S. 4063, (67) H.R. 13033.</abstract>
+   <note>Record is based on bibliographic data in ProQuest Congressional Hearings Digital Collection. Reuse except for individual research requires license from ProQuest, LLC.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural credit corporations</topic>
+      <topic>Law and legislation</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agricultural credit corporations</topic>
+      <topic>Law and legislation</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>United States</geographic>
+   </subject>
+   <location>
+      <url displayLabel="electronic resource" usage="primary">http://congressional.proquest.com/congcomp/getdoc?HEARING-ID=HRG-1922-BCU-0007</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Print version:">
+      <titleInfo>
+         <title>Rural Credits</title>
+      </titleInfo>
+      <name>
+         <namePart>United States. Congress. House. Committee on Banking and Currency.</namePart>
+      </name>
+   </relatedItem>
+   <relatedItem type="otherFormat" displayLabel="Microfiche version:">
+      <titleInfo>
+         <title>Rural Credits</title>
+      </titleInfo>
+      <name>
+         <namePart>United States. Congress. House. Committee on Banking and Currency.</namePart>
+      </name>
+      <originInfo>
+         <publisher>[Bethesda, Md.] : ProQuest, [2004]</publisher>
+      </originInfo>
+      <identifier>CIS Hrgs MF Gp 1--H316-7</identifier>
+      <identifier type="local">(ProQuest)cis10201378</identifier>
+   </relatedItem>
+   <identifier type="control">853144205</identifier>
+   <extension/>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">UMI</recordContentSource>
+      <recordCreationDate encoding="marc">090613</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20200309181405.6</recordChangeDate>
+      <recordIdentifier>853144205</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

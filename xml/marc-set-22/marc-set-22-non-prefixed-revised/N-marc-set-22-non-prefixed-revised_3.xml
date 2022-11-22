@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Status of the American cotton producer</title>
+   </titleInfo>
+   <name type="conference">
+      <namePart>Farm Mortgage Conference.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">933</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>[1933?]</dateIssued>
+      <dateIssued encoding="marc">1933</dateIssued>
+      <dateIssued encoding="marc">1933</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>269 p.</extent>
+   </physicalDescription>
+   <note>CONFIDENTIAL.</note>
+   <subject authority="atg">
+      <topic>microeconomics</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>farm management</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>plant cultural practices</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>field crops</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>crop production</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agronomy</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>F120</topic>
+      <topic>Plant Production (Field Crops)</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E200</topic>
+      <topic>Farm Organization and Management (Microeconomics)</topic>
+   </subject>
+   <classification authority="nal">281.372 F22</classification>
+   <identifier type="control">1288990435</identifier>
+   <identifier type="agricola">CAT10907173</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950313</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002858.3</recordChangeDate>
+      <recordIdentifier>1288990435</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

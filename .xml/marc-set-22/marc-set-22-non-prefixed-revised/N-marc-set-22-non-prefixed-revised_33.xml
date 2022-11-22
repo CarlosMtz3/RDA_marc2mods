@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Rural credits</title>
+      <subTitle>hearings on S. 4063 (H.R. 13033). to provide credit facilities for the agricultural and live-stock industries of United States, to amend the Federal Reserve Act, to amend the Federal Farm Loan Act, to extend and stabilize the market for United States bonds and other securities, to provide fiscal agents for the United States, and for other purposes, Nov. 24, 1922</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Congress.</namePart>
+      <namePart>Senate.</namePart>
+      <namePart>Committee on Banking and Currency.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">legislation</genre>
+   <genre authority="rdacontent">text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">922</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Washington</placeTerm>
+      </place>
+      <publisher>United States Government Printing Office</publisher>
+      <dateIssued>1922</dateIssued>
+      <dateIssued encoding="marc" point="start">1922</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>2 volumes(ii, 373, 375-402 pages) : illustrations, tables ; 23 cm.</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <abstract>Considers legislation to establish agricultural credit corporations and to revise Federal Reserve bank procedures for discounting notes, drafts, and bills of exchange for agricultural or livestock paper.</abstract>
+   <abstract>Considers (67) S. 4063, (67) H.R. 13033.</abstract>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural credit corporations</topic>
+      <topic>Law and legislation</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agricultural credit corporations</topic>
+      <topic>Law and legislation</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>D500</topic>
+      <topic>Laws and Regulations</topic>
+   </subject>
+   <classification authority="nal">284.2 Un31R</classification>
+   <relatedItem type="otherFormat"
+                displayLabel="Electronic version. United States. Congress. House. Committee on Banking and Currency.:">
+      <titleInfo>
+         <title>Rural Credits</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>Washington : U.S. G.P.O., 1922</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)853144205</identifier>
+   </relatedItem>
+   <identifier type="control">71082057</identifier>
+   <identifier type="agricola">CAT10909203</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950313</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221026090029.6</recordChangeDate>
+      <recordIdentifier>71082057</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

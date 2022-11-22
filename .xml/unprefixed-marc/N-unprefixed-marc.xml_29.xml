@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>Die </nonSort>
+      <title>Entwicklung der landwirtschaftlichen VerhaÌ&#x88;ltnisse in Mecklenburg-Schwerin unter besonderer BeruÌ&#x88;cksichtigung der Kredit- und Verschuldungslage</title>
+      <subTitle>Ein Beitrag zur Wirtschaftsgeschichte Mecklenburgs</subTitle>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng">
+      <nonSort>The</nonSort>
+      <title>development of agricultural conditions in Mecklenburg-Schwerin with special consideration of the credit and debt situation</title>
+      <subTitle>a contribution to the economic history of Mecklenburg</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Wilhelm</namePart>
+      <namePart type="family">Gesellius</namePart>
+      <displayForm>Gesellius, Wilhelm</displayForm>
+   </name>
+   <typeOfResource manuscript="yes">text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="fast">History.</genre>
+   <genre authority="fast">Academic theses.</genre>
+   <genre authority="lcgft">Academic theses.</genre>
+   <genre authority="rvmgf">TheÌ&#x80;ses et eÌ&#x81;crits acadeÌ&#x81;miques.</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">931</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateCreated>1931</dateCreated>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> ge</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>208 pages : illustrations, maps, charts; 23 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Wilhelm Gesellius.</note>
+   <note type="thesis">Leipzig, Phil. Diss. v. 24. Mai 1932.</note>
+   <note type="thesis">doctoral Universitat Leipzig</note>
+   <subject>
+      <geographicCode authority="marcgac">e-gx---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <geographic>Germany</geographic>
+      <geographic>Mecklenburg-Schwerin</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural credit</topic>
+      <geographic>Germany</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agriculture</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agricultural credit</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Economic history</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Mecklenburg (Germany : Region)</geographic>
+      <topic>History</topic>
+      <topic>Economic conditions</topic>
+   </subject>
+   <subject authority="lcsh">
+      <geographic>Schwerin (Mecklenburg-Vorpommern, Germany)</geographic>
+      <topic>Economic conditions</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Germany</geographic>
+      <geographic>Mecklenburg-Schwerin</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Germany</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Germany</geographic>
+      <geographic>Mecklenburg (Region)</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Germany</geographic>
+      <geographic>Schwerin (Mecklenburg-Vorpommern)</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <classification authority="nal">284.2 G33</classification>
+   <identifier type="control">843380761</identifier>
+   <identifier type="agricola">CAT10972246</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile>A-unprefixed-marc.xml</archiveFile>
+      <originalFile>N-unprefixed-marc.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">ZAP</recordContentSource>
+      <recordCreationDate encoding="marc">900316</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221013202106.7</recordChangeDate>
+      <recordIdentifier>843380761</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

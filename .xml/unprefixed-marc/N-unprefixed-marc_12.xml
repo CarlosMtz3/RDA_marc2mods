@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Unemployment compensation interpretation service</title>
+      <subTitle>Benifit decisions of the British Umpire : a codification and text of selected decisions</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Social Security Board.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">938</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1938</dateIssued>
+      <dateIssued encoding="marc">1938</dateIssued>
+      <dateIssued encoding="marc">1938</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>867 p.</extent>
+   </physicalDescription>
+   <subject authority="atg">
+      <topic>market analysis</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>economics</topic>
+   </subject>
+   <classification authority="nal">173.2 So1U</classification>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Benefit series. no. 1 June 1, 1938</title>
+         <partName>General supplement</partName>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="control">1289036650</identifier>
+   <identifier type="agricola">CAT10930683</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950315</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002856.8</recordChangeDate>
+      <recordIdentifier>1289036650</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/unprefixed-marc.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <nonSort>Die </nonSort>
+      <title>Landarbeiterverhältnisse Westfalens vor und nach dem Kriege in betriebswirtschaftlicher und sozialer Hinsicht</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng">
+      <nonSort>The</nonSort>
+      <title>farm worker conditions in Westphalia before and after the war in economic and social terms</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Heinrich</namePart>
+      <namePart type="family">Dartmann</namePart>
+      <displayForm>Dartmann, Heinrich</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="rdacontent/fre">texte</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Giessen</placeTerm>
+      </place>
+      <publisher>Herr</publisher>
+      <dateIssued>1932</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> ge</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>83 S. 8vo</extent>
+      <form type="media" authority="rdamedia/fre">sans médiation</form>
+   </physicalDescription>
+   <note type="thesis">Giessen, Phil. Diss. v. 7. April 1932.</note>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <classification authority="lcc">S465 .D37</classification>
+   <classification authority="nal">283 D25</classification>
+   <location>
+      <url displayLabel="Notice et cote du catalogue de la Bibliothèque nationale de France">http://catalogue.bnf.fr/ark:/12148/cb31995728f</url>
+   </location>
+   <identifier type="control">34060236</identifier>
+   <identifier type="agricola">CAT10972151</identifier>
+   <identifier type="agricola">FRBNF319957280000004</identifier>
+   <relatedItem>
+      <location>
+         <url displayLabel="Notice et cote du catalogue de la Bibliothèque nationale de France">http://catalogue.bnf.fr/ark:/12148/cb31995728f</url>
+      </location>
+   </relatedItem>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">ZT9</recordContentSource>
+      <recordCreationDate encoding="marc">960122</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220607120233.0</recordChangeDate>
+      <recordIdentifier>34060236</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

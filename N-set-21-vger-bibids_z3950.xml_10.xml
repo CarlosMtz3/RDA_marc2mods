@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Tamil grammar self-taught</title>
+      <subTitle>(In Tamil and Roman characters)</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Don M. de Z.</namePart>
+      <namePart type="family">Wickremasinghe</namePart>
+      <displayForm>Wickremasinghe, Don M. de Z.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="fast">Conversation and phrase books.</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">911</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>E. Marlborough</publisher>
+      <dateIssued>[1911]</dateIssued>
+      <dateIssued>1911 </dateIssued>
+      <edition>2d ed.</edition>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">tam</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>96 pages.</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00">Martino de Zilva Wickermawsinghe.</note>
+   <subject authority="lcsh">
+      <topic>Tamil language</topic>
+      <genre>Conversation and phrase books</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>Tamil language</topic>
+   </subject>
+   <subject authority="gtt">
+      <topic>Tamil (taal)</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>information sources</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X000</topic>
+      <topic>Auxiliary Disciplines</topic>
+   </subject>
+   <classification authority="nal">209 W63 Ed.2</classification>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Marlborough's self-taught series</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="control">707452</identifier>
+   <identifier type="agricola">CAT10931697</identifier>
+   <identifier type="oclc">ocm35659205</identifier>
+   <extension>
+      <note type="saleTape">20221007 20221008 20221002 20221008 20220929 20220929 20221003 20221003 00000000 20221001 20221003 20221002 20221002 20221002 20221002 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 20220407 00000000 00000000 00000000 00000000 00000000 00000000</note>
+      <note type="publicationSource">Non-US Non-US Other US State experiment station Other US Other US Other US Other US Other US Non-US Other US Other US Non-US Other US Non-US</note>
+      <vendorName/>
+      <archiveFile>A-set-21-vger-bibids_z3950.xml</archiveFile>
+      <originalFile>N-set-21-vger-bibids_z3950.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">ZCU</recordContentSource>
+      <recordCreationDate encoding="marc">950316</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221001083631.0</recordChangeDate>
+      <recordIdentifier>707452</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

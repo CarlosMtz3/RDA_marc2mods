@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>concise Standard dictionary of the English language</title>
+      <subTitle>designed to give the orthography, pronunciation, and meaning of about 35,000 words and phrases in the speech and literature of the English-speaking peoples; 780 pictorial illus</subTitle>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="date">1838-1918</namePart>
+      <namePart type="given">James C.</namePart>
+      <namePart type="family">Fernald</namePart>
+      <displayForm>Fernald, James C.</displayForm>
+      <role>
+         <roleTerm type="text">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">dictionary</genre>
+   <genre authority="rdacontent">still image</genre>
+   <genre authority="aat">dictionaries.</genre>
+   <genre authority="fast">Dictionaries.</genre>
+   <genre authority="lcgft">Dictionaries.</genre>
+   <genre authority="rvmgf">Dictionnaires.</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">923</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1923 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <originInfo displayLabel="publisher">
+      <place>
+         <placeTerm type="text">New York :Funk &amp; Wagnalls Co.,1923</placeTerm>
+      </place>
+      <publisher/>
+      <dateIssued>1923</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>v, 583 pages : illustrations ; 17 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00">abridged from the Funk &amp; Wagnalls New Standard dictionary of the English language by James C. Fernald.</note>
+   <subject authority="lcsh">
+      <topic>English language</topic>
+      <genre>Dictionaries</genre>
+   </subject>
+   <subject authority="fast">
+      <topic>English language</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>information sources</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X000</topic>
+      <topic>Auxiliary Disciplines</topic>
+   </subject>
+   <classification authority="nal">200 C74</classification>
+   <identifier type="control">707265</identifier>
+   <identifier type="agricola">CAT10931488</identifier>
+   <identifier type="oclc">ocm37771691</identifier>
+   <extension>
+      <note type="saleTape">20221007 20221008 20221002 20221008 20220929 20220929 20221003 20221003 00000000 20221001 20221003 20221002 20221002 20221002 20221002 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 20220407 00000000 00000000 00000000 00000000 00000000 00000000</note>
+      <note type="publicationSource">Non-US Non-US Other US State experiment station Other US Other US Other US Other US Other US Non-US Other US Other US Non-US Other US Non-US</note>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/set-21-vger-bibids_z3950.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/BIBLIOGRAPHIC_6957584900007426/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">NYP</recordContentSource>
+      <recordCreationDate encoding="marc">950316</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221001083629.0</recordChangeDate>
+      <recordIdentifier>707265</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

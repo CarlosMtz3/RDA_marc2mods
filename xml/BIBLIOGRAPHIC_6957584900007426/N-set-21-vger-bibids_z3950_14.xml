@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Practical punctuation for class and self-instruction</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">James Florence</namePart>
+      <namePart type="family">Willis</namePart>
+      <displayForm>Willis, James Florence</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">891</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Philadelphia</placeTerm>
+      </place>
+      <publisher>[Woodruff &amp; Van Horn, printers]</publisher>
+      <dateIssued>1891</dateIssued>
+      <dateIssued>1891 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>99 pages ; 16 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00">James F. Willis.</note>
+   <subject authority="lcsh">
+      <topic>English language</topic>
+      <topic>Punctuation</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>English language</topic>
+      <topic>Punctuation</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>sociology</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>education</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>culture and humanities</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X800</topic>
+      <topic>Social Sciences, Humanities, and Education</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>X800</topic>
+      <topic>Social Sciences, Humanities, and Education</topic>
+   </subject>
+   <classification authority="nal">200 W67</classification>
+   <identifier type="control">707296</identifier>
+   <identifier type="lccn">11002637</identifier>
+   <identifier type="agricola">CAT10931541</identifier>
+   <identifier type="oclc">ocm84318965</identifier>
+   <extension>
+      <note type="saleTape">20221007 20221008 20221002 20221008 20220929 20220929 20221003 20221003 00000000 20221001 20221003 20221002 20221002 20221002 20221002 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 20220407 00000000 00000000 00000000 00000000 00000000 00000000</note>
+      <note type="publicationSource">Non-US Non-US Other US State experiment station Other US Other US Other US Other US Other US Non-US Other US Other US Non-US Other US Non-US</note>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/set-21-vger-bibids_z3950.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/BIBLIOGRAPHIC_6957584900007426/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">950316</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221002180017.0</recordChangeDate>
+      <recordIdentifier>707296</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

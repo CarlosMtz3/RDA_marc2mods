@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Status of the American cotton producer</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Farm Mortgage Conference</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">bibliography</genre>
+   <genre authority="rdacontent">text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Place of publication not identified]</placeTerm>
+      </place>
+      <dateIssued>[1932?]</dateIssued>
+      <dateIssued>1932 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxiii, 269 pages : illustrations (maps) diagrams ; 27 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">prepared under the auspices of the Farm Mortgage Conference.</note>
+   <note>Photoprinted.</note>
+   <note type="bibliography">Includes bibliographical references.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cotton growing</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Cotton manufacture</topic>
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="">
+      <topic>!  Cotton growing. !  fast !  (OCoLC)fst00880982</topic>
+   </subject>
+   <subject authority="">
+      <topic>!  Cotton manufacture. !  fast !  (OCoLC)fst00881013</topic>
+   </subject>
+   <subject authority="">
+      <geographic>!  United States. !  fast !  (OCoLC)fst01204155</geographic>
+   </subject>
+   <subject authority="fast">
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>F120</topic>
+      <topic>Plant Production (Field Crops)</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E200</topic>
+      <topic>Farm Organization and Management (Microeconomics)</topic>
+   </subject>
+   <classification authority="lcc">HD9074 .F22</classification>
+   <classification authority="nal">281.372 F22</classification>
+   <identifier type="control">39210770</identifier>
+   <identifier type="agricola">CAT10907173</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/unprefixed-marc.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">PUL</recordContentSource>
+      <recordCreationDate encoding="marc">980602</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20210614201430.4</recordChangeDate>
+      <recordIdentifier>39210770</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

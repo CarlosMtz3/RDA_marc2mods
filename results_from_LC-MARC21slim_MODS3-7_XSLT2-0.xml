@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                xmlns:local="http://www.loc.org/namespace"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+   <mods version="3.7">
+      <titleInfo>
+         <title>Entwicklungstendenzen der bergischen Landwirtschaft </title>
+      </titleInfo>
+      <titleInfo type="translated" lang="eng">
+         <title>Development tendencies of mountain agriculture </title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Neuhaus, Rudolf,</namePart>
+         <namePart type="date">1903-</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Düsseldorf </placeTerm>
+         </place>
+         <publisher>Nolte</publisher>
+         <dateIssued>1932</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>89 pages : charts, diagrams ; 23 cm. + 2 fold</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Rudolf Neuhaus.</note>
+      <subject authority="lcsh">
+         <topic>Hill farming</topic>
+         <geographic>Germany</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Agricultural ecology</topic>
+         <geographic>Germany</geographic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00956799">
+         <topic>Hill farming</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01210272">
+         <geographic>Germany</geographic>
+      </subject>
+      <identifier type="oclc">on1289098633</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">950310</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221007180115.0</recordChangeDate>
+         <recordIdentifier>693000</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Untersuchungen uber Hagelschaden und Hagelschadenentschadigung in der Landwirtschaft </title>
+      </titleInfo>
+      <titleInfo type="translated" lang="eng">
+         <title>Studies on hail damage and hail damage compensation in agriculture </title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Lampe, Hermann,</namePart>
+         <namePart type="date">1902-</namePart>
+      </name>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="marcgt">theses</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="fast">Academic theses.</genre>
+      <genre authority="lcgft">Academic theses.</genre>
+      <genre authority="rvmgf">Thèses et écrits académiques.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1933</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="producer">
+         <dateOther type="production">1933.</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>198 pages</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Hermann Lampe.</note>
+      <note type="thesis">doctoral Landwirtschaftliche Hochschule, Berlin</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gx---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Plants</topic>
+         <topic>Effect of hail on</topic>
+         <geographic>Germany</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hail insurance</topic>
+         <geographic>Germany</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01715838">
+         <topic>Hail insurance</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01065941">
+         <topic>Plants</topic>
+         <topic>Effect of hail on</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>microeconomics</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>farm management</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01210272">
+         <geographic>Germany</geographic>
+      </subject>
+      <identifier type="oclc">ocn843305805</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">ZAP</recordContentSource>
+         <recordCreationDate encoding="marc">950314</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221008084025.0</recordChangeDate>
+         <recordIdentifier>701656</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Landscape gardening </title>
+         <subTitle>a paper read before the Massachusetts Horticultural Society January 21, 1883 </subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Manning, Warren H. (Warren Henry),</namePart>
+         <namePart type="date">1860-1938</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Massachusetts Horticultural Society.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Boston, Massachusetts</placeTerm>
+         </place>
+         <publisher>The Society</publisher>
+         <dateIssued>1893</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>16 pages ; 24 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">by Warren H. Manning.</note>
+      <note>"From Transactions of the Massachusetts Horticultural Society.</note>
+      <subject authority="lcsh">
+         <topic>Landscape gardening</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Landscape architecture</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00991814">
+         <topic>Landscape architecture</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="aat"
+               xlink:href="(CStmoGRI)aat300054708">
+         <topic>landscape gardening</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00991916">
+         <topic>Landscape gardening</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>plant cultural practices</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>horticulture</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>horticultural crops</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>crop production</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>natural resources</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>land resources</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>land management</topic>
+      </subject>
+      <identifier type="oclc">ocm82905423</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">HLS</recordContentSource>
+         <recordCreationDate encoding="marc">950224</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221002083618.0</recordChangeDate>
+         <recordIdentifier>688303</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Economic survey of Idaho agriculture </title>
+         <subTitle>progress report</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Economic survey of Idaho agriculture report of progress</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>University of Idaho.</namePart>
+         <namePart>Agricultural Experiment Station and Extension Service.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>Idaho.</namePart>
+         <namePart>Department of Agriculture.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>United States.</namePart>
+         <namePart>Department of Agriculture.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">idu</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Boise, Idaho </placeTerm>
+         </place>
+         <publisher>Agricultural Experiment Station and Extension Service, Idaho State Dept. of Agriculture and U.S. Dept. of Agriculture</publisher>
+         <dateIssued>1926</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>14 leaves : maps ; 28 cm</extent>
+      </physicalDescription>
+      <note>June 10, 1926.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us-id</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Agriculture</topic>
+         <topic>Economic aspects</topic>
+         <geographic>Idaho</geographic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <identifier type="oclc">ocm49538114</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">OIS</recordContentSource>
+         <recordCreationDate encoding="marc">950310</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221008180039.0</recordChangeDate>
+         <recordIdentifier>691808</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Intermediate credit corporation </title>
+         <subTitle>hearings before the Committee on Banking and Currency, House of Representatives, Seventy-fourth Congress, first session, on H.R. 5918, a bill to provide for the creation of an intermediate credit corporation for commerce and industry, to aid in financing small and medium sized commercial and industrial establishments, and for other purposes. May 27, 28, 29, June 3, 4, 5, and 6, 1935</subTitle>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>United States.</namePart>
+         <namePart>Congress.</namePart>
+         <namePart>House.</namePart>
+         <namePart>Committee on Banking and Currency.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Washington </placeTerm>
+         </place>
+         <publisher>U.S. Government Printing Office</publisher>
+         <dateIssued>1935</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>146 pages ; 24 cm</extent>
+      </physicalDescription>
+      <note>Part 2, Hearings ... on H.R. 5918 (H.R. 9090). July 30, 31, August 1, 1935.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Credit</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Banks and banking</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Industrial policy</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00882525">
+         <topic>Credit</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00971433">
+         <topic>Industrial policy</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>laws and regulations</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01204155 n">
+         <geographic>United States</geographic>
+      </subject>
+      <identifier type="oclc">ocm21254648</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">FRG</recordContentSource>
+         <recordCreationDate encoding="marc">950313</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20220929180103.0</recordChangeDate>
+         <recordIdentifier>698295</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Agricultural Credit Corporations </title>
+         <subTitle>hearings before the United States House Committee on Agriculture, Seventy-Second Congress, first session, on Feb. 10-12, 1932</subTitle>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>United States.</namePart>
+         <namePart>Congress.</namePart>
+         <namePart>House.</namePart>
+         <namePart>Committee on Agriculture.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">government publication</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Washington </placeTerm>
+         </place>
+         <publisher>U.S. Govt. Print. Off.</publisher>
+         <dateIssued>1932</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>28 leaves : illustrations, map ; 28 cm</extent>
+      </physicalDescription>
+      <note>"Serial D."</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Agricultural credit</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00800626">
+         <topic>Agricultural credit</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>laws and regulations</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>natural resources</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>energy resources</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01204155">
+         <geographic>United States</geographic>
+      </subject>
+      <identifier type="oclc">ocm14139956</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">CUY</recordContentSource>
+         <recordCreationDate encoding="marc">950313</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20220929180103.0</recordChangeDate>
+         <recordIdentifier>698597</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>How to organize a federal savings and loan association </title>
+         <subTitle>the federal way to thrift and home ownership</subTitle>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>United States.</namePart>
+         <namePart>Federal Home Loan Bank Board.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">government publication</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="3">Internet resource</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1933</dateIssued>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Washington, D.C.] </placeTerm>
+         </place>
+         <publisher>Federal Savings and Loan Association</publisher>
+         <dateIssued>[1933]</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>12 pages ; 23 x 11 cm</extent>
+      </physicalDescription>
+      <note>Cover title.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Savings and loan associations</topic>
+         <geographic>United States</geographic>
+         <topic>Management</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01106015">
+         <topic>Savings and loan associations</topic>
+         <topic>Management</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01204155">
+         <geographic>United States</geographic>
+      </subject>
+      <classification authority="sudocs">Y 3.F 31/3:2 Sa 9</classification>
+      <location>
+         <url displayLabel="HathiTrust Digital Library" usage="primary display">http://catalog.hathitrust.org/api/volumes/oclc/42673739.html</url>
+      </location>
+      <relatedItem type="otherFormat"
+                   otherType="Online version:"
+                   displayLabel="Online version:">
+         <titleInfo>
+            <title>How to organize a federal savings and loan association</title>
+         </titleInfo>
+         <originInfo>
+            <publisher>[Washington, D.C.] : Federal Savings and Loan Association, [1933]</publisher>
+         </originInfo>
+         <identifier type="local">(OCoLC)919943070</identifier>
+      </relatedItem>
+      <identifier type="oclc">ocm42673739</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">DNU</recordContentSource>
+         <recordCreationDate encoding="marc">950315</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221003083552.0</recordChangeDate>
+         <recordIdentifier>706415</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Packing apples in central packing houses and the New York apple packing law</title>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>New York Central and Hudson River Railroad Company.</namePart>
+         <namePart>Agricultural Department.</namePart>
+      </name>
+      <name type="corporate">
+         <namePart>New York Central Lines.</namePart>
+         <namePart>Agricultural Department.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1915</dateIssued>
+         <issuance>monographic</issuance>
+         <dateIssued>[1915?]</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>15 pages</extent>
+      </physicalDescription>
+      <subject>
+         <geographicCode authority="marcgac">n-us-ny</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Packing for shipment</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Apples</topic>
+         <geographic>New York (State)</geographic>
+         <topic>Marketing</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Apples</topic>
+         <topic>Handling</topic>
+         <geographic>New York (State)</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00811678">
+         <topic>Apples</topic>
+         <topic>Marketing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01050238">
+         <topic>Packing for shipment</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>plant-based foods</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>horticultural crops</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>food packaging</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01210280">
+         <geographic>New York (State)</geographic>
+      </subject>
+      <identifier type="oclc">ocm71079600</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">950310</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221003083553.0</recordChangeDate>
+         <recordIdentifier>694512</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">The  </nonSort>
+         <title>concise Standard dictionary of the English language </title>
+         <subTitle>designed to give the orthography, pronunciation, and meaning of about 35,000 words and phrases in the speech and literature of the English-speaking peoples; 780 pictorial illus</subTitle>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Fernald, James C. (James Champlin),</namePart>
+         <namePart type="date">1838-1918</namePart>
+         <role>
+            <roleTerm type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">dictionary</genre>
+      <genre authority="rdacontent">still image</genre>
+      <genre authority="aat">dictionaries.</genre>
+      <genre authority="fast">Dictionaries.</genre>
+      <genre authority="lcgft">Dictionaries.</genre>
+      <genre authority="rvmgf">Dictionnaires.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1923</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">New York :</placeTerm>
+         </place>
+         <publisher>Funk &amp; Wagnalls Co.,</publisher>
+         <dateIssued>1923.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>v, 583 pages : illustrations ; 17 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">abridged from the Funk &amp; Wagnalls New Standard dictionary of the English language by James C. Fernald.</note>
+      <subject authority="lcsh">
+         <topic>English language</topic>
+         <genre>Dictionaries</genre>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00910920">
+         <topic>English language</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>information sources</topic>
+      </subject>
+      <identifier type="oclc">ocm37771691</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">NYP</recordContentSource>
+         <recordCreationDate encoding="marc">950316</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221001083629.0</recordChangeDate>
+         <recordIdentifier>707265</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Tamil grammar self-taught</title>
+         <subTitle>(In Tamil and Roman characters) </subTitle>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Wickremasinghe, Don M. de Z.,</namePart>
+         <namePart type="date">1865-1937</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="fast">Conversation and phrase books.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1911</dateIssued>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">London</placeTerm>
+         </place>
+         <publisher>E. Marlborough</publisher>
+         <dateIssued>[1911]</dateIssued>
+         <edition>2d ed.</edition>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">tam</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>96 pages.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">Martino de Zilva Wickermawsinghe.</note>
+      <subject authority="lcsh">
+         <topic>Tamil language</topic>
+         <genre>Conversation and phrase books</genre>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01142467">
+         <topic>Tamil language</topic>
+      </subject>
+      <subject authority="gtt">
+         <topic>Tamil (taal)</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>information sources</topic>
+      </subject>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Marlborough's self-taught series</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">ocm35659205</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">950316</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221001083631.0</recordChangeDate>
+         <recordIdentifier>707452</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <nonSort xml:space="preserve">A  </nonSort>
+         <title>study of the history and efficacy of the Federal Agricultural Credit Act of 1923, with especial application to Oregon </title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Hunter, Kenneth H.</namePart>
+      </name>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="fast">Academic theses.</genre>
+      <genre authority="lcgft">Academic theses.</genre>
+      <genre authority="rvmgf">Thèses et écrits académiques.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1925</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="producer">
+         <dateOther type="production">1925.</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>69 leaves ; 29 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">by Kenneth H. Hunter.</note>
+      <note>Typescript.</note>
+      <note type="thesis">M.B.A. University of Oregon 1925</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Agricultural credit</topic>
+         <topic>Government policy</topic>
+         <geographic>United States</geographic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00800637">
+         <topic>Agricultural credit</topic>
+         <topic>Government policy</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01204155">
+         <geographic>United States</geographic>
+      </subject>
+      <identifier type="oclc">ocm53094637</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">ORU</recordContentSource>
+         <recordCreationDate encoding="marc">950313</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221003083552.0</recordChangeDate>
+         <recordIdentifier>698498</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Surveys and titles Koloa to Mahaulepu, District of Koloa, Kauai, T.H</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Alexander, Arthur C. (Arthur Chambers),</namePart>
+         <namePart type="date">1863-1954</namePart>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+         <role>
+            <roleTerm type="text">cartographer</roleTerm>
+         </role>
+      </name>
+      <name type="corporate">
+         <namePart>Koloa Sugar Company,</namePart>
+         <role>
+            <roleTerm type="text">commissioning body</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="rdacontent">cartographic image</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">hiu</placeTerm>
+         </place>
+         <dateIssued encoding="marc">1927</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="publisher">
+         <place>
+            <placeTerm type="text">[Hawaii] :</placeTerm>
+         </place>
+         <publisher>[A.C. Alexander],</publisher>
+         <dateIssued>1927.</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>9 leaves, 5 leaves, 1 unnumbered leaf, 172 leaves, that is, 344 pages : maps ; 34 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">prepared for the Koloa Sugar Company by A.C. Alexander.</note>
+      <subject>
+         <geographicCode authority="marcgac">n-us-hi</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Land titles</topic>
+         <geographic>Hawaii</geographic>
+         <geographic>Kauai</geographic>
+      </subject>
+      <subject authority="nal">
+         <topic>plant cultural practices</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>field crops</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>crop production</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agronomy</topic>
+      </subject>
+      <subject authority="lcsh">
+         <geographic>Kauai (Hawaii)</geographic>
+         <genre>Surveys</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sugar growing</topic>
+         <geographic>Hawaii</geographic>
+         <geographic>Kauai</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Sugar plantations</topic>
+         <geographic>Hawaii</geographic>
+         <geographic>Kauai</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Koloa Sugar Company.</namePart>
+         </name>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01137390">
+         <topic>Sugar growing</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01208724">
+         <geographic>Hawaii</geographic>
+      </subject>
+      <identifier type="oclc">on1288024173</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">HUH</recordContentSource>
+         <recordCreationDate encoding="marc">950202</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221002083619.0</recordChangeDate>
+         <recordIdentifier>683563</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Landwirthschaftliche Taxationslehre </title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Taxationslehre</title>
+      </titleInfo>
+      <titleInfo type="translated" lang="eng">
+         <title>Agricultural appraisal theory </title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Pabst, H. W. (Heinrich Wilhelm),</namePart>
+         <namePart type="date">1798-1868</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Hamm, Wilhelm von.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Berlin </placeTerm>
+         </place>
+         <publisher>Paul Parey</publisher>
+         <dateIssued>1881</dateIssued>
+         <edition>3. Aufl., vollständig umgearb. u. verm. /</edition>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>viii, 212 pages ; 24 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">H.W. von Pabst.</note>
+      <subject>
+         <geographicCode authority="marcgac">e-gx---</geographicCode>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Agriculture</topic>
+         <topic>Taxation</topic>
+         <geographic>Germany</geographic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Agriculture</topic>
+         <topic>Economic aspects</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00801415">
+         <topic>Agriculture</topic>
+         <topic>Economic aspects</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00801686">
+         <topic>Agriculture</topic>
+         <topic>Taxation</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>microeconomics</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>farm management</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>agricultural economics</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01210272">
+         <geographic>Germany</geographic>
+      </subject>
+      <identifier type="oclc">ocn424643781</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">KKU</recordContentSource>
+         <recordCreationDate encoding="marc">950314</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221002083620.0</recordChangeDate>
+         <recordIdentifier>701616</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Practical punctuation for class and self-instruction </title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Willis, James Florence.</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">pau</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Philadelphia </placeTerm>
+         </place>
+         <publisher>[Woodruff &amp; Van Horn, printers]</publisher>
+         <dateIssued>1891</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>99 pages ; 16 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">James F. Willis.</note>
+      <subject authority="lcsh">
+         <topic>English language</topic>
+         <topic>Punctuation</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst00911548">
+         <topic>English language</topic>
+         <topic>Punctuation</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>sociology</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>education</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>culture and humanities</topic>
+      </subject>
+      <identifier type="lccn">11002637</identifier>
+      <identifier type="oclc">ocm84318965</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">DLC</recordContentSource>
+         <recordCreationDate encoding="marc">950316</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221002180017.0</recordChangeDate>
+         <recordIdentifier>707296</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Vegetativnoe razmnozhenie drevesnykh rasteniĭ letnimi cherenkami </title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Vegetative propagation of trees and shrubs by means of summer cuttings</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Vekhov, N. K. (Nikolaĭ Kuzʹmich)</namePart>
+      </name>
+      <name type="personal">
+         <namePart>Ilʹin, Mikhail P.</namePart>
+         <namePart type="date">1895-1953</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="marcgt">bibliography</genre>
+      <genre authority="rdacontent">text</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ru</placeTerm>
+         </place>
+         <issuance>monographic</issuance>
+         <place>
+            <placeTerm type="text">Leningrad </placeTerm>
+         </place>
+         <publisher>Izd. Vses. in-ta rastenievodstva</publisher>
+         <dateIssued>1934</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">rus</languageTerm>
+      </language>
+      <language objectPart="summary">
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language objectPart="table of contents">
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+         <extent>283 pages : illustrations ; 25 cm</extent>
+      </physicalDescription>
+      <note type="statement of responsibility">N.K. Vekhov, M.P. Ilʹin.</note>
+      <note>At head of title: Vsesoi︠u︡znai︠a︡ akademii︠a︡ selʹskokhozi︠a︡ĭstvennykh nauk im. Lenina. Institut rastenievodstva NKZ SSSR.</note>
+      <note>In Russian; summaries in English; table of contents also in English.</note>
+      <note type="bibliography">Includes bibliographical references.</note>
+      <subject authority="lcsh">
+         <topic>Plant cuttings</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Trees</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Shrubs</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="aat"
+               xlink:href="(CStmoGRI)aat300132407">
+         <topic>shrubs</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01065368">
+         <topic>Plant cuttings</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01117866">
+         <topic>Shrubs</topic>
+      </subject>
+      <subject xmlns:xlink="http://www.w3.org/1999/xlink"
+               authority="fast"
+               xlink:href="(OCoLC)fst01155984">
+         <topic>Trees</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>forestry</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>plant cultural practices</topic>
+      </subject>
+      <subject authority="nal">
+         <topic>crop production</topic>
+      </subject>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Prilozhenie ... k Trudam po prikladnoĭ botanike, genetike i selekt︠s︡ii </title>
+            <partNumber>61</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">ocm12141899</identifier>
+      <recordInfo>
+         <descriptionStandard>aacr</descriptionStandard>
+         <recordContentSource authority="marcorg">VXG</recordContentSource>
+         <recordCreationDate encoding="marc">950217</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221002180017.0</recordChangeDate>
+         <recordIdentifier>687214</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using
+					MARC21slim_MODS3-7_XSL2-0.xsl (Revision 2.53 2020/07/17)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

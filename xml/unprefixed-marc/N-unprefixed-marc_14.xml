@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Ten years in the cause of mutual insurance on country elevators, 1902- 1912</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Grain Dealers National Mutual Fire Insurance Co. (Indianapolis)</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">913</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>[1913]</dateIssued>
+      <dateIssued encoding="marc">1913</dateIssued>
+      <dateIssued encoding="marc">1913</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>1 v.</extent>
+   </physicalDescription>
+   <subject authority="atg">
+      <topic>food storage</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>field crops</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural structures and facilities</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>microeconomics</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>farm management</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <classification authority="nal">284.6 G76</classification>
+   <identifier type="control">1289122495</identifier>
+   <identifier type="agricola">CAT10910283</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950314</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20211217002858.4</recordChangeDate>
+      <recordIdentifier>1289122495</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/unprefixed-marc.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

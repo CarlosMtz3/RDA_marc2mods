@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>consumption of milk in Allegheny county, Pennsylvania</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">T. K.</namePart>
+      <namePart type="family">Cowden</namePart>
+      <displayForm>Cowden, T. K.</displayForm>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart type="date">1892-1974</namePart>
+      <namePart type="given">F. F.</namePart>
+      <namePart type="family">Lininger</namePart>
+      <displayForm>Lininger, F. F.</displayForm>
+   </name>
+   <name type="corporate">
+      <namePart>Pennsylvania State College</namePart>
+      <namePart>Department of Agricultural Economics.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1932</dateIssued>
+      <dateIssued>1932 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>12 leaves.</extent>
+      <form type="media" authority="rda">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">T.K. Cowden and F.F. Lininger.</note>
+   <subject authority="agricola">
+      <topic>Q001</topic>
+      <topic>Food Science and Food Products - Dairy Products</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E700</topic>
+      <topic>Distribution and Marketing of Agricultural Products</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>T000</topic>
+      <topic>Human Nutrition</topic>
+   </subject>
+   <classification authority="nal">281.344 P38</classification>
+   <identifier type="control">71078161</identifier>
+   <identifier type="agricola">CAT10906701</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile>A-unprefixed-marc.xml</archiveFile>
+      <originalFile>N-unprefixed-marc.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">950310</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20130802151951.4</recordChangeDate>
+      <recordIdentifier>71078161</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

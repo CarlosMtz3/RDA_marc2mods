@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Teaming with bacteria</title>
+      <subTitle>the organic gardener's guide to endophytic bacteria and the
+                rhizophagy cycle</subTitle>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Organic gardener's guide to endophytic bacteria and the rhizophagy
+                cycle</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Jeff</namePart>
+      <namePart type="family">Lowenfels</namePart>
+      <displayForm>Lowenfels, Jeff</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">legal article</genre>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="">Handbooks and manuals.</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">oru</placeTerm>
+         <placeTerm type="text">Oregon</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-01</dateIssued>211029s2022 o<issuance>monographic</issuance>
+   </originInfo>
+   <originInfo displayLabel="publisher">
+      <place>
+         <placeTerm type="text">Portland, Oregon :Timber Press,2022</placeTerm>
+      </place>
+      <publisher/>
+      <dateIssued>2022</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>pages cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <abstract>"Thanks to research conducted over the last few decades, we know that
+                many (and probably all) plants get a significant portion of their nutrients by
+                attracting endophytic bacteria. Gardeners and small-scale growers need to know about
+                endophytic bacteria and the rhizophagy cycle because they have profound implications
+                for how they raise plants. Knowing about them will help readers increase their
+                plant's health and productivity"-- Provided by publisher.</abstract>
+   <tableOfContents>Botany for students of endophytes -- Biochemistry for students of endophytes -- Bacterial review -- Endophytic bacteria -- The rhizophagy cycle -- Growing with endophytic bacteria -- The endophytic future.</tableOfContents>
+   <targetAudience authority="marctarget">adult</targetAudience>
+   <note type="statement of responsibility" altRepGroup="00">Jeff Lowenfels</note>
+   <note>Includes index.</note>
+   <note type="additional physical form">Also available online.</note>
+   <subject authority="lcsh">
+      <topic>Organic gardening</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Endophytes</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Plant-microbe relationships</topic>
+   </subject>
+   <classification authority="lcc">QR351</classification>
+   <classification authority="nal">QR351 .L687 2022</classification>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>Teaming with bacteria</title>
+      </titleInfo>
+      <name>
+         <namePart>Lowenfels, Jeff.</namePart>
+      </name>
+      <originInfo>
+         <publisher>Portland, Oregon : Timber Press, 2022</publisher>
+      </originInfo>
+      <identifier type="local">(DLC) 2021052484</identifier>
+   </relatedItem>
+   <identifier type="isbn">9781643261393</identifier>
+   <identifier type="isbn" invalid="yes">9781643261690</identifier>
+   <identifier type="control">9914445133607426</identifier>
+   <identifier type="lccn">2021052483</identifier>
+   <identifier type="agricola">CIP 20211029 8:55:06 PM</identifier>
+   <extension>
+      <note type="indexer">CIP IND NNL</note>
+      <note type="publicationSource">Other US</note>
+      <note type="ai">agid:1444513</note>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/BIBLIOGRAPHIC_6957584900007426/BIBLIOGRAPHIC_6957584900007426.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive%20-%20USDA\Desktop\RDA_marc2mods\.xml\BIBLIOGRAPHIC_6957584900007426\</workingDirectory>
+   </extension>
+   <recordInfo>
+      <descriptionStandard>rda</descriptionStandard>
+      <recordContentSource authority="marcorg">DNAL/DLC</recordContentSource>
+      <recordCreationDate encoding="marc">211029</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220708162826.0</recordChangeDate>
+      <recordIdentifier>9914445133607426</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

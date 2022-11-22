@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>How to organize a federal savings and loan association</title>
+      <subTitle>the federal way to thrift and home ownership</subTitle>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>United States</namePart>
+      <namePart>Federal Home Loan Bank Board.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="">Internet resource</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">933</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Washington, D.C.]</placeTerm>
+      </place>
+      <publisher>Federal Savings and Loan Association</publisher>
+      <dateIssued>[1933]</dateIssued>
+      <dateIssued>1933 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>12 pages ; 23 x 11 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note>Cover title.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Savings and loan associations</topic>
+      <geographic>United States</geographic>
+      <topic>Management</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Savings and loan associations</topic>
+      <topic>Management</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>agricultural economics</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <classification authority="nal">173.2 H75H</classification>
+   <location>
+      <url displayLabel="HathiTrust Digital Library" usage="primary">http://catalog.hathitrust.org/api/volumes/oclc/42673739.html</url>
+   </location>
+   <relatedItem type="otherFormat" displayLabel="Online version:">
+      <titleInfo>
+         <title>How to organize a federal savings and loan association</title>
+      </titleInfo>
+      <originInfo>
+         <publisher>[Washington, D.C.] : Federal Savings and Loan Association, [1933]</publisher>
+      </originInfo>
+      <identifier type="local">(OCoLC)919943070</identifier>
+   </relatedItem>
+   <identifier type="control">706415</identifier>
+   <identifier type="agricola">CAT10930310</identifier>
+   <identifier type="oclc">ocm42673739</identifier>
+   <extension>
+      <note type="saleTape">20221007 20221008 20221002 20221008 20220929 20220929 20221003 20221003 00000000 20221001 20221003 20221002 20221002 20221002 20221002 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 20220407 00000000 00000000 00000000 00000000 00000000 00000000</note>
+      <note type="publicationSource">Non-US Non-US Other US State experiment station Other US Other US Other US Other US Other US Non-US Other US Other US Non-US Other US Non-US</note>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/set-21-vger-bibids_z3950.xml</originalFile>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/BIBLIOGRAPHIC_6957584900007426/</workingDirectory>
+   </extension>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">DNU</recordContentSource>
+      <recordCreationDate encoding="marc">950315</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221003083552.0</recordChangeDate>
+      <recordIdentifier>706415</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

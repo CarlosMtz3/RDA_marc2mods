@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>The </nonSort>
+      <title>northern garden week by week</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Daisy Thomson</namePart>
+      <namePart type="family">Abbott</namePart>
+      <displayForm>Abbott, Daisy Thomson</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="rdacontent">text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">miua</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Minneapolis</placeTerm>
+      </place>
+      <publisher>University of Minnesota Press</publisher>
+      <dateIssued>[Â©1938]</dateIssued>
+      <dateIssued encoding="marc" point="start" qualifier="questionable">1938</dateIssued>
+      <dateIssued encoding="marc" point="end" qualifier="questionable">1983</dateIssued>
+      <edition>New ed.</edition>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <originInfo displayLabel="publisher">
+      <place>
+         <placeTerm type="text">Place of publication not identified] :University of Minnesota Press,1938</placeTerm>
+      </place>
+      <publisher/>
+      <dateIssued/>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">microfilm</form>
+      <form authority="marccategory">microform</form>
+      <form authority="marcsmd">microfilm reel</form>
+      <extent>iv, [2], 94 pages : illustrations ; 24 cm</extent>
+      <extent>1 online resource (vi, 94 pages)</extent>
+      <form type="media" authority="rdamedia">microform</form>
+      <form type="media" authority="rdamedia">computer</form>
+      <form type="carrier" authority="rdacarrier">microfilm reel</form>
+      <form type="carrier" authority="rdacarrier">online resource</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">by Daisy T. Abbott.</note>
+   <note>Master microform held by: UnM.</note>
+   <note>Bibliographic Level Mode of Issuance: Monograph.</note>
+   <note type="reproduction">Microfilm. Ann Arbor, Mich. : University Microfilms International, [19--]. 1 microfilm reel ; 35 mm.</note>
+   <note type="language">English.</note>
+   <subject>
+      <geographicCode authority="marcgac">n-us-mn</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Gardening</topic>
+      <geographic>Minnesota</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Floriculture</topic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Jardinage</topic>
+      <geographic>Minnesota</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Floriculture</topic>
+   </subject>
+   <subject authority="aat">
+      <topic>floriculture</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Floriculture</topic>
+   </subject>
+   <subject>
+      <topic>Art, Architecture &amp; Applied Arts</topic>
+   </subject>
+   <subject>
+      <topic>Gardens, Landscape Architecture &amp; Parks</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Gardening</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Minnesota</geographic>
+   </subject>
+   <classification authority="lcc">SB453 .A2</classification>
+   <relatedItem type="otherFormat"/>
+   <relatedItem type="otherFormat">
+      <identifier type="local">(DLC)   38028149</identifier>
+   </relatedItem>
+   <identifier type="control">22027879</identifier>
+   <identifier type="lccn">nuc87300496</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/unprefixed-marc.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">UnM</recordContentSource>
+      <recordCreationDate encoding="marc">870922</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220511022527.3</recordChangeDate>
+      <recordIdentifier>22027879</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

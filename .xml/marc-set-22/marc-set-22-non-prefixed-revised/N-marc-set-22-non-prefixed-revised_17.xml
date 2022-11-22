@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo>
+      <title>Wesen, Bedeutung und anwendbarkeit der "freien wirtschaft."</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng">
+      <title>The nature, meaning and applicability of "free economy"</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gedeon von</namePart>
+      <namePart type="family">Bytschkow</namePart>
+      <displayForm>Bytschkow, Gedeon von</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="fast">Academic theses.</genre>
+   <genre authority="lcgft">Academic theses.</genre>
+   <genre authority="rvmgf">Thèses et écrits académiques.</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">879</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Götting</placeTerm>
+      </place>
+      <dateIssued>1879</dateIssued>
+      <dateIssued encoding="marc">1879</dateIssued>
+      <dateIssued encoding="marc">1879</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> en</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>O</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Gedeon von Bytschkow.</note>
+   <note type="thesis">Inaug. -diss. -- Götting.</note>
+   <subject>
+      <geographicCode authority="marcgac">e-gx---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Free trade</topic>
+      <geographic>Germany</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Economics</topic>
+      <geographic>Germany</geographic>
+   </subject>
+   <identifier type="control">829738081</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">LWU</recordContentSource>
+      <recordCreationDate encoding="marc">890701</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220830171730.9</recordChangeDate>
+      <recordIdentifier>829738081</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>

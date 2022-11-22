@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Spatial patterns of tree-growth anomalies in the United States and
+                southeastern Canada</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">D.</namePart>
+      <namePart type="family">Meko</namePart>
+      <displayForm>Meko, D.</displayForm>
+   </name>
+   <name type="personal" usage="primary">
+      <namePart type="given">E.R.</namePart>
+      <namePart type="family">Cook</namePart>
+      <displayForm>Cook, E.R.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">D.W.</namePart>
+      <namePart type="family">Stahle</namePart>
+      <displayForm>Stahle, D.W.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.W.</namePart>
+      <namePart type="family">Stockton</namePart>
+      <displayForm>Stockton, C.W.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">M.K.</namePart>
+      <namePart type="family">Hughes</namePart>
+      <displayForm>Hughes, M.K.</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="">article</genre>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">mau</placeTerm>
+         <placeTerm type="text">Massachusetts</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1993-09-01</dateIssued>
+      <issuance>continuing</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <physicalDescription>
+      <extent>p. 1773-1786.</extent>
+   </physicalDescription>
+   <abstract>A network of 248 tree-ring chronologies in the conterminous United
+                States is assembled and analyzed by rotated principal components analysis (RPCA) to
+                delineate "regions" of common tree-growth variation during the period 1705-1979.
+                Spatial continuity of the tree-ring data is summarized by variogram analysis, and
+                tree-ring data are gridded before RPCA to reduce effects of site clustering.
+                Principal component drought information is evaluated by comparing PC scores and
+                primary pattern coefficients with Palmer Drought Severity Index (PDSI) data from
+                instrumental records. High PC pattern coefficients group geographically into regions
+                coinciding roughly with nine drought regions delineated by RPCA of PDSI by other
+                researchers. The drought signal as measured by the correlation between tree-ring PC
+                scores and July PDSI, 1929-79, is strongest in the South and the interior West (r
+                &gt; 0.7), and weakest in the Northeast and Pacific Northwest (r &lt; 0.16). A count
+                of years with large negative PC scores in multiple regions marks the 1950s as the
+                extreme in widespread drought across the southern United States to 1705. Tree-growth
+                regions are sensitive to whether tree-ring data are gridded before RPCA. Principal
+                components on ungridded tree-ring data tend to center on dense clusters of sites.
+                The importance of site density is most noticeable in the RPCA results for the
+                southeast, where the gridded data yield a PC centered on a group of
+                climate-sensitive but widely spaced bald cypress chronologies. Cross-validation
+                indicates that gridding of tree-ring anomalies over different species for drought
+                reconstruction is more appropriate in the semiarid southwest than in cooler, moister
+                regions--especially the northeast and the Pacific Northwest. Our results endorse the
+                large-scale chronology network as a long-term proxy for the spatial and temporal
+                patterns of past drought across the United States.</abstract>
+   <subject authority="atg">
+      <topic>trees</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>abnormal development</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>models</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>growth rings</topic>
+   </subject>
+   <subject authority="atg">
+      <geographic>United States</geographic>
+   </subject>
+   <subject authority="atg">
+      <geographic>Canada</geographic>
+   </subject>
+   <subject>
+      <topic>species</topic>
+   </subject>
+   <location>
+      <physicalLocation>DNAL</physicalLocation>
+   </location>
+   <location>
+      <url displayLabel="Available from publisher's Web site" usage="primary">http://dx.doi.org/10.1175/1520-0442(1993)006&lt;1773:SPOTGA&gt;2.0.CO;2</url>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Journal of climate</title>
+      </titleInfo>
+      <identifier type="issn">0894-8755</identifier>
+      <part>
+         <text>1993 Sept., v. 6, no. 9 p.1773-1786</text>
+      </part>
+   </relatedItem>
+   <identifier type="doi">10.1175/1520-0442(1993)006&lt;1773:SPOTGA&gt;2.0.CO;2</identifier>
+   <identifier type="control">9915363721607426</identifier>
+   <identifier type="agricola">IND20386808</identifier>
+   <extension>
+      <note type="saleTape">19940504 19940511 00000000</note>
+      <note type="indexer">CIP IND NNL</note>
+      <note type="publicationSource">Other US</note>
+      <note type="ai">agid:1444513</note>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/BIBLIOGRAPHIC_6957584900007426/BIBLIOGRAPHIC_6957584900007426.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">940411</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220810154628.0</recordChangeDate>
+      <recordIdentifier>9915363721607426</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

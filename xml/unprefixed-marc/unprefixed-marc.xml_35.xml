@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <nonSort>Die </nonSort>
+      <title>LandarbeiterverhaÌ&#x88;ltnisse Westfalens vor und nach dem Kriege in betriebswirtschaftlicher und sozialer Hinsicht</title>
+   </titleInfo>
+   <titleInfo type="translated">
+      <nonSort>The</nonSort>
+      <title>farm worker relationships in Westphalia before and after the war in economic and social terms</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Heinrich</namePart>
+      <namePart type="family">Dartmann</namePart>
+      <displayForm>Dartmann, Heinrich</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">theses</genre>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="fast">Academic theses.</genre>
+   <genre authority="gnd-content">Hochschulschrift.</genre>
+   <genre authority="lcgft">Academic theses.</genre>
+   <genre authority="rvmgf">TheÌ&#x80;ses et eÌ&#x81;crits acadeÌ&#x81;miques.</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">Giessen</placeTerm>
+      </place>
+      <publisher>Herr</publisher>
+      <dateIssued>1932</dateIssued>
+      <dateIssued>1932 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> ge</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>83 pages ; charts, 24 cm</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Heinrich Dartmann.</note>
+   <note type="thesis">Giessen, Phil. Diss. v. 7. April 1932.</note>
+   <subject>
+      <geographicCode authority="marcgac">e-gx---</geographicCode>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agricultural laborers</topic>
+      <geographic>Germany</geographic>
+      <geographic>Westphalia</geographic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture</topic>
+      <topic>Economic aspects</topic>
+      <geographic>Germany</geographic>
+      <geographic>Westphalia</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Travailleurs agricoles</topic>
+      <geographic>Allemagne</geographic>
+      <geographic>Westphalie</geographic>
+   </subject>
+   <subject authority="rvm">
+      <topic>Agriculture</topic>
+      <topic>Aspect eÌ&#x81;conomique</topic>
+      <geographic>Allemagne</geographic>
+      <geographic>Westphalie</geographic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agricultural laborers</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Agriculture</topic>
+      <topic>Economic aspects</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Germany</geographic>
+      <geographic>Westphalia</geographic>
+   </subject>
+   <identifier type="control">123262983</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/unprefixed-marc.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">HIN</recordContentSource>
+      <recordCreationDate encoding="marc">960122</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20220831183618.2</recordChangeDate>
+      <recordIdentifier>123262983</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

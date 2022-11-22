@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+      version="3.4">
+   <titleInfo>
+      <title>Wesen, Bedeutung und Anwendbarkeit der "freien Wirthschaft"</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Wirtschaft</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng.">
+      <title>The nature, meaning and applicability of "free economy"</title>
+   </titleInfo>
+   <name type="personal" usage="primary">
+      <namePart type="given">Gedeon von</namePart>
+      <namePart type="family">Bytschkow</namePart>
+      <displayForm>Bytschkow, Gedeon von</displayForm>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent/ger">Text</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">879</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <place>
+         <placeTerm type="text">GoÌ&#x88;ttingen</placeTerm>
+      </place>
+      <publisher>Dieterich</publisher>
+      <dateIssued>1879</dateIssued>
+      <dateIssued>1879 </dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> ge</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>46 Seiten ; 8Â°</extent>
+      <form type="media" authority="rdamedia/ger">ohne Hilfsmittel zu benutzen</form>
+      <form type="carrier" authority="rdacarrier/ger">Band</form>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00" script="Latn">Gedeon von Bytschkow.</note>
+   <subject authority="gtt">
+      <topic>Hochschulschrift</topic>
+   </subject>
+   <subject authority="agricola">
+      <topic>E100</topic>
+      <topic>Agricultural Economics (General)</topic>
+   </subject>
+   <classification authority="ssgn">24</classification>
+   <classification authority="nal">281 B99</classification>
+   <identifier type="control">47320441</identifier>
+   <identifier type="agricola">CAT10942233</identifier>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/.xml/unprefixed-marc/unprefixed-marc.xml</originalFile>
+      <workingDirectory/>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg">ZXW</recordContentSource>
+      <recordCreationDate encoding="marc">000126</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20180418002754.1</recordChangeDate>
+      <recordIdentifier>47320441</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.03 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

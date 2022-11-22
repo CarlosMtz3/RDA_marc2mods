@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.4"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+   <titleInfo altRepGroup="01" script="Latn">
+      <title>IAgodovodstvo : (dli︠ raĭonov sredneĭ polosy SSSR) : (uchebnoye posobiye dli︠ shkol sovkhozucheĭ) : Sostavleno bridagoĭ sotrudnikov Moskovskoĭ zonal'noĭ plodo- plodo-i︠a︡godnoĭ opytnoĭ stantsii</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="eng">
+      <title>Horticulture : (for︠ regions of the middle belt of the USSR) : (textbook for︠ schools of state farmers) : Compiled by a team of employees of the Moscow Zonal Fruit-and-Food Experimental Station</title>
+   </titleInfo>
+   <name type="corporate">
+      <namePart>Moscow (Russia)</namePart>
+      <namePart>ZonalÊ£naiı̐ aı̐Ł plodo-iı̐ aı̐Łgodnaiı̐ aı̐Ł opytnaiı̐ aı̐Ł stantsiiı̐ aı̐Ł.</namePart>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="rdacontent">text</genre>
+   <genre authority="fast">Textbooks.</genre>
+   <originInfo script="Latn">
+      <place>
+         <placeTerm type="code" authority="marccountry">932</placeTerm>
+         <placeTerm type="text"/>
+      </place>
+      <dateIssued>1932</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <dateIssued encoding="marc">1932</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code"> ru</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>231 pages</extent>
+      <form type="media" authority="rdamedia">unmediated</form>
+      <form type="carrier" authority="rdacarrier">volume</form>
+   </physicalDescription>
+   <note>Non-Latin script record</note>
+   <note>Non-Latin script record</note>
+   <subject authority="lcsh">
+      <topic>Horticulture</topic>
+      <geographic>Soviet Union</geographic>
+      <genre>Textbooks</genre>
+   </subject>
+   <subject authority="atg">
+      <topic>plant cultural practices</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>horticulture</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>horticultural crops</topic>
+   </subject>
+   <subject authority="atg">
+      <topic>crop production</topic>
+   </subject>
+   <subject authority="fast">
+      <topic>Horticulture</topic>
+   </subject>
+   <subject authority="fast">
+      <geographic>Soviet Union</geographic>
+   </subject>
+   <subject authority="agricola">
+      <topic>F110</topic>
+      <topic>Plant Production (Horticultural Crops)</topic>
+   </subject>
+   <classification authority="nal">94 M85</classification>
+   <name type="corporate" altRepGroup="00" script="Cyrl">
+      <namePart>Мосcоw (Руссиа). ‡b Зональнаи︠а︡ плодо-и︠а︡годнаи︠а︡ опытнаи︠а︡ стантсии︠а︡</namePart>
+   </name>
+   <titleInfo altRepGroup="01" script="Cyrl">
+      <title>Агодоводство: (дли︠ районов средней полосы СССР) : (учебное пособие дли︠ школ совхозучей) : Составлено бридагой сотрудников Московской зональной плодо- плодо-и︠а︡годной опытной стантсии</title>
+   </titleInfo>
+   <note type="statement of responsibility" altRepGroup="00" script="Cyrl"/>
+   <identifier type="control">NEW</identifier>
+   <identifier type="agricola">CAT10926644</identifier>
+   <identifier type="oclc">ocm71075902</identifier>
+   <extension/>
+   <recordInfo>
+      <recordContentSource authority="marcorg">AGL</recordContentSource>
+      <recordCreationDate encoding="marc">221012</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221012072833.0</recordChangeDate>
+      <recordIdentifier>NEW</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using NAL-RDAmarc21slim2mods.xsl (Revision 2.00 2022/10/27)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <extension>
+      <vendorName/>
+      <archiveFile/>
+      <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/marc-set-22-non-prefixed-revised.xml</originalFile>
+      <workingDirectory>C:\Users\Carlos.Martinez\Desktop\RDA_marc2mods\</workingDirectory>
+   </extension>
+</mods>
