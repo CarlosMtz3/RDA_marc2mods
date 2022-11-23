@@ -30,13 +30,14 @@
          <placeTerm type="code" authority="marccountry">oru</placeTerm>
          <placeTerm type="text">Oregon</placeTerm>
       </place>
-      <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>211029s2022 o<issuance>monographic</issuance>
+      <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+      <issuance>monographic</issuance>
    </originInfo>
    <originInfo displayLabel="publisher">
       <place>
-         <placeTerm type="text">Portland, Oregon :Timber Press,2022</placeTerm>
+         <placeTerm type="text">Portland, Oregon</placeTerm>
       </place>
-      <publisher/>
+      <publisher>Timber Press</publisher>
       <dateIssued>2022</dateIssued>
    </originInfo>
    <physicalDescription>
@@ -71,7 +72,7 @@
          <title>Teaming with bacteria</title>
       </titleInfo>
       <name>
-         <namePart>Lowenfels, Jeff.</namePart>
+         <namePart>Lowenfels, Jeff</namePart>
       </name>
       <originInfo>
          <publisher>Portland, Oregon : Timber Press, 2022</publisher>
@@ -90,7 +91,7 @@
       <vendorName/>
       <archiveFile/>
       <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/xml/BIBLIOGRAPHIC_6957584900007426/BIBLIOGRAPHIC_6957584900007426.xml</originalFile>
-      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive%20-%20USDA\Desktop\RDA_marc2mods\xml\BIBLIOGRAPHIC_6957584900007426\</workingDirectory>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/xml/BIBLIOGRAPHIC_6957584900007426/</workingDirectory>
    </extension>
    <recordInfo>
       <descriptionStandard>rda</descriptionStandard>

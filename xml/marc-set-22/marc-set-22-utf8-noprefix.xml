@@ -161,11 +161,6 @@
             <subfield code="b">Census Office,</subfield>
             <subfield code="c">[1884]</subfield>
         </datafield>
-        <datafield tag="264" ind1=" " ind2="3">
-            <subfield code="a">Washington :</subfield>
-            <subfield code="b">Government Printing Office,</subfield>
-            <subfield code="c">1884.</subfield>
-        </datafield>
         <datafield tag="300" ind1=" " ind2=" ">
             <subfield code="a">1 v.</subfield>
         </datafield>
@@ -826,10 +821,7 @@
         <datafield tag="245" ind1="1" ind2="4">
             <subfield code="a">Die Landarbeiterverhältnisse Westfalens vor und nach dem Kriege in
                 betriebswirtschaftlicher und sozialer Hinsicht.</subfield>
-        </datafield>
-        <datafield tag="260" ind1=" " ind2=" ">
-            <subfield code="c">1932.</subfield>
-        </datafield>
+        </datafield>       
         <datafield tag="260" ind1=" " ind2=" ">
             <subfield code="a">Giessen:</subfield>
             <subfield code="b">Herr,</subfield>

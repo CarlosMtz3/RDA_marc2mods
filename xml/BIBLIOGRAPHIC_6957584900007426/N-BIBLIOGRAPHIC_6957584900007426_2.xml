@@ -40,8 +40,7 @@
          <placeTerm type="code" authority="marccountry">mau</placeTerm>
          <placeTerm type="text">Massachusetts</placeTerm>
       </place>
-      <dateIssued encoding="w3cdtf" keyDate="yes">1993-09-01--&gt;
-										</dateIssued>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1993-09</dateIssued>
       <issuance>continuing</issuance>
    </originInfo>
    <language>
@@ -121,7 +120,7 @@
       <vendorName/>
       <archiveFile/>
       <originalFile>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/xml/BIBLIOGRAPHIC_6957584900007426/BIBLIOGRAPHIC_6957584900007426.xml</originalFile>
-      <workingDirectory>C:\Users\Carlos.Martinez\OneDrive%20-%20USDA\Desktop\RDA_marc2mods\xml\BIBLIOGRAPHIC_6957584900007426\</workingDirectory>
+      <workingDirectory>file:/C:/Users/Carlos.Martinez/OneDrive%20-%20USDA/Desktop/RDA_marc2mods/xml/BIBLIOGRAPHIC_6957584900007426/</workingDirectory>
    </extension>
    <recordInfo>
       <recordContentSource authority="marcorg">AGL</recordContentSource>

@@ -1,20 +1,40 @@
-<xsl:stylesheet xmlns="http://www.loc.gov/mods/v3" xmlns:marc="http://www.loc.gov/MARC21/slim"
-	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	exclude-result-prefixes="xlink marc" version="1.0">
-	<xsl:include href="http://www.loc.gov/standards/marcxml/xslt/MARC21slimUtils.xsl"/>
-	<xsl:output encoding="UTF-8" indent="yes" method="xml"/>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
+	xmlns="http://www.loc.gov/mods/v3" xmlns:f="http://functions"
+	xmlns:marc="http://www.loc.gov/MARC21/slim"
+	xmlns:marccountry="http://www.local.gov/marc/countries"
+	xmlns:nalsubcat="http://nal-subject-category-codes" xmlns:saxon="http://saxon.sf.net/"
+	xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	exclude-result-prefixes="f marc marccountry nalsubcat saxon xd xlink xs xsi">
+
+	<xsl:include href="commons/common.xsl"/>
+	<xsl:include href="commons/functions.xsl"/>
+	<xsl:include href="commons/params.xsl"/>
+	<xsl:include href="commons/NAL-MARC21slimUtils.xsl"/>
+
+	<xsl:output encoding="UTF-8" indent="yes" method="xml" name="archive"/>
+	<xsl:output encoding="UTF-8" indent="yes" method="xml" name="original"/>
+	<xsl:output encoding="UTF-8" indent="yes" method="xml" saxon:next-in-chain="fix_characters.xsl"/>
 	<xsl:strip-space elements="*"/>
 
-	<!-- Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
-	MARC21slim2MODS3-4 (Revision 1.95) 20141219
 
+
+	<!-- Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
+	MARC21slim2MODS3-4 (Revision 1.98) 20141216
+
+Revision 2.00 - Upgraded Stylesheet to XSLT 2.0 (
+Revision 1.99 - Fixed dateIssued to include month and date from the 008  JG 2014/08/18
+Revision 1.98 - Added displayForm to 700 JG 2014/05/29
+Revision 1.97 - Added subject from 072, classification from 070, identifier from 024, identifier from 001, and notes from 910, 930, 945, 946, 974 LC 2014/04/23
+Revision 1.96 - Added a xsl:when to deal with '#' and ' ' in $marcLeader19 and $controlField008-18 - ws 2014/12/19 
 Revision 1.95 - Added a xsl:when to deal with '#' and ' ' in $marcLeader19 and $controlField008-18 - ws 2014/12/19
 Revision 1.94 - Leader 07 b mapping changed from "continuing" to "serial" tmee 2014/02/21
 Revision 1.93 - Fixed personal name transform for ind1=0 tmee 2014/01/31
 Revision 1.92 - Removed duplicate code for 856 1.51 tmee tmee 2014/01/31
 Revision 1.91 - Fixed createnameFrom720 duplication tmee tmee 2014/01/31
 Revision 1.90 - Fixed 520 displayLabel tmee tmee 2014/01/31
-Revision 1.89 - Fixed 008-06 when value = 's' for cartographics tmee tmee 2014/01/31
+Revision 1.89 - Fixed 008-06 when value = 's' for cartographics tmee  2014/01/31
 Revision 1.88 - Fixed 510c mapping - tmee 2013/08/29
 Revision 1.87 - Fixed expressions of <accessCondition> type values - tmee 2013/08/29
 Revision 1.86 - Fixed 008 <frequency> subfield to occur w/i <originiInfo> - tmee 2013/08/29
@@ -1005,11 +1025,6 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 				</dateOther>
 			</originInfo>
 		</xsl:for-each>
-
-
-
-
-
 		<xsl:for-each select="datafield[@tag=880]">
 			<xsl:variable name="related_datafield"
 				select="substring-before(subfield[@code='6'],'-')"/>
@@ -4533,7 +4548,7 @@ Revision 1.02 - Added Log Comment  2003/03/24 19:37:42  ckeith
 		<note>
 			<xsl:call-template name="xxx880"/>
 			<xsl:call-template name="uri"/>
-			<xsl:value-of select="subfield[@code='a']"/>
+5			<xsl:value-of select="subfield[@code='a']"/>
 		</note>
 	</xsl:template>
 
